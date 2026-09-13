@@ -15,6 +15,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 WIDTH, HEIGHT = 1080, 1920
+GEN_WIDTH, GEN_HEIGHT = 1350, 2400  # generate at higher res, then downscale for sharper result
 FPS = 25
 NUM_SCENES = 6
 TRANSITION = 0.4
@@ -25,6 +26,7 @@ PERF_FILE = "video_performance.json"
 BAN_DAYS = 60
 BOOST_VIEWS = 1000
 FAIL_VIEWS = 300
+STATS_CHECK_AFTER_DAYS = 3  # give YouTube more time before judging a video's performance
 
 CATEGORY_ROTATION = ["space_science", "history_althistory", "disaster_mystery_survival"]
 
@@ -34,12 +36,29 @@ TOPIC_POOLS = {
     "disaster_mystery_survival": "natural disasters, earth mysteries, survival scenarios, dinosaurs, unexplained phenomena",
 }
 
+CATEGORY_HASHTAGS = {
+    "space_science": "space",
+    "history_althistory": "history",
+    "disaster_mystery_survival": "disaster",
+}
+
+ENGAGEMENT_QUESTIONS = [
+    "What would YOU do in this scenario? Comment below!",
+    "Do you think this could really happen? Let us know!",
+    "Which part shocked you the most? Tell us in the comments!",
+]
+
 IMAGE_STYLE = (
     "Ultra Detailed Documentary Illustration, Cinematic Lighting, "
     "Realistic Digital Painting, Dark Atmospheric Environment, "
     "Consistent Character Design, Professional Storytelling Art, "
     "High Detail, Movie Quality, Dramatic Shadows, Volumetric Lighting, "
     "Realistic Backgrounds, YouTube Documentary Style, no text, no watermark"
+)
+
+NEGATIVE_PROMPT = (
+    "blurry, text, watermark, deformed, extra fingers, extra limbs, "
+    "disfigured, low quality, distorted face, bad anatomy, cropped, ugly"
 )
 
 
@@ -104,7 +123,7 @@ def update_video_stats(perf):
         if v.get("views_checked"):
             continue
         uploaded = datetime.datetime.fromisoformat(v["uploaded_at"])
-        if (now - uploaded).days >= 2:
+        if (now - uploaded).days >= STATS_CHECK_AFTER_DAYS:
             ids_to_check.append(v["video_id"])
     if not ids_to_check:
         return perf
@@ -258,13 +277,17 @@ def generate_full_content(perf, category):
 
 
 # ---------- Image generation ----------
-def download_image(prompt, out_path):
+def download_image(prompt, out_path, seed):
+    """Uses a shared seed across all scenes of the same video for visual consistency,
+    generates at a higher resolution than the final output for a sharper result,
+    and applies a negative prompt to reduce common AI-image artifacts."""
     full_prompt = f"{prompt}, {IMAGE_STYLE}"
-    seed = random.randint(1, 999999)
     encoded = urllib.parse.quote(full_prompt)
+    encoded_negative = urllib.parse.quote(NEGATIVE_PROMPT)
     url = (
         f"https://image.pollinations.ai/prompt/{encoded}"
-        f"?width=1080&height=1920&seed={seed}&nologo=true&model=flux&enhance=true"
+        f"?width={GEN_WIDTH}&height={GEN_HEIGHT}&seed={seed}"
+        f"&nologo=true&model=flux&enhance=true&negative={encoded_negative}"
     )
     try:
         r = requests.get(url, timeout=90)
@@ -272,7 +295,7 @@ def download_image(prompt, out_path):
         with open(out_path, "wb") as f:
             f.write(r.content)
         img = Image.open(out_path).convert("RGB")
-        img = img.resize((WIDTH, HEIGHT))
+        img = img.resize((WIDTH, HEIGHT), Image.LANCZOS)
         img.save(out_path)
     except Exception as e:
         print(f"Image download failed: {e}")
@@ -282,7 +305,8 @@ def download_image(prompt, out_path):
 
 # ---------- Voice + word timings ----------
 async def synthesize_with_timings(text, voice, audio_out):
-    communicate = edge_tts.Communicate(text, voice, rate="+2%")
+    # rate left at natural speed ("+0%") so captions feel less rushed and retention improves
+    communicate = edge_tts.Communicate(text, voice, rate="+0%")
     words = []
     with open(audio_out, "wb") as f:
         async for chunk in communicate.stream():
@@ -504,6 +528,10 @@ def main():
     voice = random.choice(VOICES)
     print("Voice:", voice)
 
+    # one shared seed per video keeps character/style consistent across all 6 scenes
+    video_seed = random.randint(1, 999999)
+    print("Image seed for this video:", video_seed)
+
     scene_videos = []
     scene_audios = []
     scene_durations = []
@@ -518,7 +546,7 @@ def main():
 
         print(f"Scene {i+1}: generating image...")
         img_path = f"scenes/raw_{i}.jpg"
-        download_image(data["image_prompts"][i], img_path)
+        download_image(data["image_prompts"][i], img_path, video_seed)
 
         print(f"Scene {i+1}: building captions...")
         ass_path = f"scenes/caps_{i}.ass"
@@ -544,7 +572,11 @@ def main():
 
     print("Uploading to YouTube...")
     hashtags_line = " ".join(f"#{h}" for h in data.get("hashtags", []))
-    description = f"{data['description']}\n\n{hashtags_line}"
+    category_tag = CATEGORY_HASHTAGS.get(category, "")
+    if category_tag and category_tag not in hashtags_line.lower():
+        hashtags_line = f"{hashtags_line} #{category_tag}"
+    engagement_question = random.choice(ENGAGEMENT_QUESTIONS)
+    description = f"{data['description']}\n\n{engagement_question}\n\n{hashtags_line}"
     video_id = upload_to_youtube("output.mp4", data["title"] + " #Shorts", description)
 
     perf["videos"].append({
