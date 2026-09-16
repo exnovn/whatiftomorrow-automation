@@ -33,8 +33,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Hidden Methane Volcano Created a West Coast Tsunami?",
       "uploaded_at": "2026-09-13T17:11:22.139147",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 86
     },
     {
       "video_id": "ETczWm9aiNc",
@@ -114,6 +114,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Sky Never Darkens?",
       "uploaded_at": "2026-09-16T17:11:06.509192",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "WuvmGCBAJ9Q",
+      "topic": "Ming steam age",
+      "category": "history_althistory",
+      "title": "What If Ming China Invented Steam Power?",
+      "uploaded_at": "2026-09-16T22:15:09.990245",
       "views_checked": false,
       "views": 0
     }
