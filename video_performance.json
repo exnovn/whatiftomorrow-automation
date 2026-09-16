@@ -6,8 +6,8 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-09-13T04:46:09.609212",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "yLsHVjMiHsc",
@@ -15,8 +15,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Supervolcano Buried Manhattan?",
       "uploaded_at": "2026-09-13T05:58:19.496238",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "CxV3dsxmg0s",
@@ -96,6 +96,15 @@
       "category": "history_althistory",
       "title": "What If the Black Death Never Happened?",
       "uploaded_at": "2026-09-15T22:15:51.977171",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "0CJ-GZaDOAQ",
+      "topic": "rogue neutron star",
+      "category": "space_science",
+      "title": "What If a Rogue Neutron Star Slammed Our Oort Cloud?",
+      "uploaded_at": "2026-09-16T12:10:49.619261",
       "views_checked": false,
       "views": 0
     }
