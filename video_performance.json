@@ -24,8 +24,8 @@
       "category": "space_science",
       "title": "What If the Sun Turned Into a Black Hole?",
       "uploaded_at": "2026-09-13T12:10:51.529545",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 594
     },
     {
       "video_id": "5yegG4tJyhc",
@@ -105,6 +105,15 @@
       "category": "space_science",
       "title": "What If a Rogue Neutron Star Slammed Our Oort Cloud?",
       "uploaded_at": "2026-09-16T12:10:49.619261",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "JRmZaYrsdG4",
+      "topic": "permanent aurora",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Sky Never Darkens?",
+      "uploaded_at": "2026-09-16T17:11:06.509192",
       "views_checked": false,
       "views": 0
     }
