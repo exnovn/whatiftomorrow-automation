@@ -51,8 +51,8 @@
       "category": "space_science",
       "title": "What If the Moon Became a Giant Mirror?",
       "uploaded_at": "2026-09-14T12:11:57.027812",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 71
     },
     {
       "video_id": "QVLhSlSBDcc",
@@ -132,6 +132,15 @@
       "category": "space_science",
       "title": "What If a Black Hole Jet Hit Earth?",
       "uploaded_at": "2026-09-17T12:11:17.813139",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "E7c0qdRaABM",
+      "topic": "core stops rotating",
+      "category": "disaster_mystery_survival",
+      "title": "What If Earth's Core Stopped Spinning?",
+      "uploaded_at": "2026-09-17T17:10:18.637299",
       "views_checked": false,
       "views": 0
     }
