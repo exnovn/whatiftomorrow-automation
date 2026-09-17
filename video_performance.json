@@ -42,8 +42,8 @@
       "category": "history_althistory",
       "title": "What If the Aztecs Defeated Cortés?",
       "uploaded_at": "2026-09-13T22:15:28.076600",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 69
     },
     {
       "video_id": "upGxntExlxs",
@@ -123,6 +123,15 @@
       "category": "history_althistory",
       "title": "What If Ming China Invented Steam Power?",
       "uploaded_at": "2026-09-16T22:15:09.990245",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "EmNVJ6m-NJo",
+      "topic": "black hole jet",
+      "category": "space_science",
+      "title": "What If a Black Hole Jet Hit Earth?",
+      "uploaded_at": "2026-09-17T12:11:17.813139",
       "views_checked": false,
       "views": 0
     }
