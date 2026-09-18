@@ -69,8 +69,8 @@
       "category": "history_althistory",
       "title": "What If the Roman Empire Never Fell?",
       "uploaded_at": "2026-09-14T22:15:43.152044",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 355
     },
     {
       "video_id": "I5UKIaQXzHM",
@@ -150,6 +150,15 @@
       "category": "history_althistory",
       "title": "What If the Inca Invented Gunpowder?",
       "uploaded_at": "2026-09-17T22:15:38.818363",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "e04-AVyiHfU",
+      "topic": "orbit shift",
+      "category": "space_science",
+      "title": "What If Earth Jumped 10% Further From the Sun?",
+      "uploaded_at": "2026-09-18T12:10:42.502712",
       "views_checked": false,
       "views": 0
     }
