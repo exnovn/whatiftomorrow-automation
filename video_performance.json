@@ -87,8 +87,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Grand Canyon Vanished Overnight?",
       "uploaded_at": "2026-09-15T17:11:13.523647",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "Z8fDIJyfcAQ",
@@ -168,6 +168,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Pacific Ocean Suddenly Frozen?",
       "uploaded_at": "2026-09-18T17:11:30.505808",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "mI-z2NGGtT8",
+      "topic": "Byzantine survival",
+      "category": "history_althistory",
+      "title": "What If the Byzantine Empire Never Fell",
+      "uploaded_at": "2026-09-18T22:15:04.347370",
       "views_checked": false,
       "views": 0
     }
