@@ -78,8 +78,8 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Mass?",
       "uploaded_at": "2026-09-15T12:11:42.040791",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 364
     },
     {
       "video_id": "XV2vO_hwchw",
@@ -159,6 +159,15 @@
       "category": "space_science",
       "title": "What If Earth Jumped 10% Further From the Sun?",
       "uploaded_at": "2026-09-18T12:10:42.502712",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "VxUwklqgKfw",
+      "topic": "Ocean Freeze",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Pacific Ocean Suddenly Frozen?",
+      "uploaded_at": "2026-09-18T17:11:30.505808",
       "views_checked": false,
       "views": 0
     }
