@@ -105,8 +105,8 @@
       "category": "space_science",
       "title": "What If a Rogue Neutron Star Slammed Our Oort Cloud?",
       "uploaded_at": "2026-09-16T12:10:49.619261",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 406
     },
     {
       "video_id": "JRmZaYrsdG4",
@@ -186,6 +186,15 @@
       "category": "space_science",
       "title": "What If the Sun Became a White Dwarf Tomorrow",
       "uploaded_at": "2026-09-19T12:10:39.372537",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "f-ueUlOUbNA",
+      "topic": "NYC volcanic eruption",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Supervolcano Erupted Under New York City?",
+      "uploaded_at": "2026-09-19T17:11:10.042342",
       "views_checked": false,
       "views": 0
     }
