@@ -141,8 +141,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Earth's Core Stopped Spinning?",
       "uploaded_at": "2026-09-17T17:10:18.637299",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "zdM1AxWgfX8",
@@ -222,6 +222,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Iron Asteroid Crashed Into the Pacific?",
       "uploaded_at": "2026-09-20T17:10:54.955792",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "evWkhnr-LpE",
+      "topic": "Viking America",
+      "category": "history_althistory",
+      "title": "What If the Vikings Colonized America First?",
+      "uploaded_at": "2026-09-20T22:14:47.405964",
       "views_checked": false,
       "views": 0
     }
