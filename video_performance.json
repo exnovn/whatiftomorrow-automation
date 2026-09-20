@@ -132,8 +132,8 @@
       "category": "space_science",
       "title": "What If a Black Hole Jet Hit Earth?",
       "uploaded_at": "2026-09-17T12:11:17.813139",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 121
     },
     {
       "video_id": "E7c0qdRaABM",
@@ -213,6 +213,15 @@
       "category": "space_science",
       "title": "What If Jupiter Stole Earth?",
       "uploaded_at": "2026-09-20T12:11:02.218454",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "qk0t_BFAHt0",
+      "topic": "iron asteroid impact",
+      "category": "disaster_mystery_survival",
+      "title": "What If an Iron Asteroid Crashed Into the Pacific?",
+      "uploaded_at": "2026-09-20T17:10:54.955792",
       "views_checked": false,
       "views": 0
     }
