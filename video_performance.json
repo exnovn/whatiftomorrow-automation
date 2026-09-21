@@ -150,8 +150,8 @@
       "category": "history_althistory",
       "title": "What If the Inca Invented Gunpowder?",
       "uploaded_at": "2026-09-17T22:15:38.818363",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "e04-AVyiHfU",
@@ -231,6 +231,15 @@
       "category": "history_althistory",
       "title": "What If the Vikings Colonized America First?",
       "uploaded_at": "2026-09-20T22:14:47.405964",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "RcBLF1uY1F8",
+      "topic": "nearby supernova",
+      "category": "space_science",
+      "title": "What If a Supernova Went Off Just 10 Light‑Years Away?",
+      "uploaded_at": "2026-09-21T12:10:46.869634",
       "views_checked": false,
       "views": 0
     }
