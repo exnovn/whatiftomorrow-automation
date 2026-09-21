@@ -159,8 +159,8 @@
       "category": "space_science",
       "title": "What If Earth Jumped 10% Further From the Sun?",
       "uploaded_at": "2026-09-18T12:10:42.502712",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 7
     },
     {
       "video_id": "VxUwklqgKfw",
@@ -240,6 +240,15 @@
       "category": "space_science",
       "title": "What If a Supernova Went Off Just 10 Light‑Years Away?",
       "uploaded_at": "2026-09-21T12:10:46.869634",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "uWUnyPUOTkA",
+      "topic": "Antarctic dinosaurs",
+      "category": "disaster_mystery_survival",
+      "title": "What If Living Dinosaurs Hide in Antarctica?",
+      "uploaded_at": "2026-09-21T17:10:46.073503",
       "views_checked": false,
       "views": 0
     }
