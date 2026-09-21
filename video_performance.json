@@ -168,8 +168,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Pacific Ocean Suddenly Frozen?",
       "uploaded_at": "2026-09-18T17:11:30.505808",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 317
     },
     {
       "video_id": "mI-z2NGGtT8",
@@ -249,6 +249,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Living Dinosaurs Hide in Antarctica?",
       "uploaded_at": "2026-09-21T17:10:46.073503",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "kciDRK-bllQ",
+      "topic": "Chinese Discovery America",
+      "category": "history_althistory",
+      "title": "What If China Discovered America First?",
+      "uploaded_at": "2026-09-21T22:15:35.125221",
       "views_checked": false,
       "views": 0
     }
