@@ -195,8 +195,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Supervolcano Erupted Under New York City?",
       "uploaded_at": "2026-09-19T17:11:10.042342",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 83
     },
     {
       "video_id": "XGABBua2YhY",
@@ -276,6 +276,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Giant Sinkhole Swallowed London?",
       "uploaded_at": "2026-09-22T17:11:29.611162",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "HWnxnNgSOws",
+      "topic": "Roman America",
+      "category": "history_althistory",
+      "title": "What If Rome Conquered America?",
+      "uploaded_at": "2026-09-22T22:14:21.598038",
       "views_checked": false,
       "views": 0
     }
