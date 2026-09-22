@@ -186,8 +186,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a White Dwarf Tomorrow",
       "uploaded_at": "2026-09-19T12:10:39.372537",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 390
     },
     {
       "video_id": "f-ueUlOUbNA",
@@ -267,6 +267,15 @@
       "category": "space_science",
       "title": "What If the Moon Suddenly Stopped Orbiting Earth?",
       "uploaded_at": "2026-09-22T12:10:37.951947",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "yFhcGvCrrbs",
+      "topic": "London sinkhole",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Giant Sinkhole Swallowed London?",
+      "uploaded_at": "2026-09-22T17:11:29.611162",
       "views_checked": false,
       "views": 0
     }
