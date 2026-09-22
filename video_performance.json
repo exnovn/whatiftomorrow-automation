@@ -177,8 +177,8 @@
       "category": "history_althistory",
       "title": "What If the Byzantine Empire Never Fell",
       "uploaded_at": "2026-09-18T22:15:04.347370",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 273
     },
     {
       "video_id": "JuzUux6MW78",
@@ -258,6 +258,15 @@
       "category": "history_althistory",
       "title": "What If China Discovered America First?",
       "uploaded_at": "2026-09-21T22:15:35.125221",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "X8pBR7nERVw",
+      "topic": "moon stops orbiting",
+      "category": "space_science",
+      "title": "What If the Moon Suddenly Stopped Orbiting Earth?",
+      "uploaded_at": "2026-09-22T12:10:37.951947",
       "views_checked": false,
       "views": 0
     }
