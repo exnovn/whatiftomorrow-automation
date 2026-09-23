@@ -222,8 +222,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Iron Asteroid Crashed Into the Pacific?",
       "uploaded_at": "2026-09-20T17:10:54.955792",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 982
     },
     {
       "video_id": "evWkhnr-LpE",
@@ -303,6 +303,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Giant Sinkhole Swallowed New York City?",
       "uploaded_at": "2026-09-23T17:11:34.268188",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "aVCe_ztG504",
+      "topic": "Napoleon victory",
+      "category": "history_althistory",
+      "title": "What If Napoleon Won at Waterloo?",
+      "uploaded_at": "2026-09-23T22:15:55.164772",
       "views_checked": false,
       "views": 0
     }
