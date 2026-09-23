@@ -213,8 +213,8 @@
       "category": "space_science",
       "title": "What If Jupiter Stole Earth?",
       "uploaded_at": "2026-09-20T12:11:02.218454",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 321
     },
     {
       "video_id": "qk0t_BFAHt0",
@@ -294,6 +294,15 @@
       "category": "space_science",
       "title": "What If a Comet Created a Second Sun?",
       "uploaded_at": "2026-09-23T12:11:22.512056",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "qfoP4SgkWRs",
+      "topic": "mega sinkhole",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Giant Sinkhole Swallowed New York City?",
+      "uploaded_at": "2026-09-23T17:11:34.268188",
       "views_checked": false,
       "views": 0
     }
