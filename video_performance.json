@@ -204,8 +204,8 @@
       "category": "history_althistory",
       "title": "What If the Mongol Empire United All of Europe?",
       "uploaded_at": "2026-09-19T22:14:56.044028",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 11
     },
     {
       "video_id": "ms1XNsPa7vU",
@@ -285,6 +285,15 @@
       "category": "history_althistory",
       "title": "What If Rome Conquered America?",
       "uploaded_at": "2026-09-22T22:14:21.598038",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "3xULK5bKdGI",
+      "topic": "comet hits sun",
+      "category": "space_science",
+      "title": "What If a Comet Created a Second Sun?",
+      "uploaded_at": "2026-09-23T12:11:22.512056",
       "views_checked": false,
       "views": 0
     }
