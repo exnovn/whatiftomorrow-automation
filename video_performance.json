@@ -249,8 +249,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Living Dinosaurs Hide in Antarctica?",
       "uploaded_at": "2026-09-21T17:10:46.073503",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "kciDRK-bllQ",
@@ -330,6 +330,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Atlantic Ocean Became a Volcano?",
       "uploaded_at": "2026-09-24T17:11:29.188765",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "uQgp5ssgzvM",
+      "topic": "Armada Victory",
+      "category": "history_althistory",
+      "title": "What If the Spanish Armada Conquered England?",
+      "uploaded_at": "2026-09-24T22:15:47.389989",
       "views_checked": false,
       "views": 0
     }
