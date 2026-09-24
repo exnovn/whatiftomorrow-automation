@@ -231,8 +231,8 @@
       "category": "history_althistory",
       "title": "What If the Vikings Colonized America First?",
       "uploaded_at": "2026-09-20T22:14:47.405964",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 219
     },
     {
       "video_id": "RcBLF1uY1F8",
@@ -312,6 +312,15 @@
       "category": "history_althistory",
       "title": "What If Napoleon Won at Waterloo?",
       "uploaded_at": "2026-09-23T22:15:55.164772",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "YF4ez4AUdt8",
+      "topic": "Moon Turns Sun",
+      "category": "space_science",
+      "title": "What If the Moon Became a Second Sun?",
+      "uploaded_at": "2026-09-24T12:11:27.621874",
       "views_checked": false,
       "views": 0
     }
