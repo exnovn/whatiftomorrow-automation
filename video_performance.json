@@ -240,8 +240,8 @@
       "category": "space_science",
       "title": "What If a Supernova Went Off Just 10 Light‑Years Away?",
       "uploaded_at": "2026-09-21T12:10:46.869634",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 457
     },
     {
       "video_id": "uWUnyPUOTkA",
@@ -321,6 +321,15 @@
       "category": "space_science",
       "title": "What If the Moon Became a Second Sun?",
       "uploaded_at": "2026-09-24T12:11:27.621874",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "rF6-pMqHPHw",
+      "topic": "Atlantic volcanic eruption",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Atlantic Ocean Became a Volcano?",
+      "uploaded_at": "2026-09-24T17:11:29.188765",
       "views_checked": false,
       "views": 0
     }
