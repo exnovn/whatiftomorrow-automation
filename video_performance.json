@@ -267,8 +267,8 @@
       "category": "space_science",
       "title": "What If the Moon Suddenly Stopped Orbiting Earth?",
       "uploaded_at": "2026-09-22T12:10:37.951947",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 113
     },
     {
       "video_id": "yFhcGvCrrbs",
@@ -348,6 +348,15 @@
       "category": "space_science",
       "title": "What If Earth's Magnetic Shield Vanished?",
       "uploaded_at": "2026-09-25T12:10:53.734038",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "onSFYGrCYog",
+      "topic": "Andes megatsunami",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Andes Landslide Created a California‑Killing Tsunami?",
+      "uploaded_at": "2026-09-25T17:10:37.833451",
       "views_checked": false,
       "views": 0
     }
