@@ -276,8 +276,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Giant Sinkhole Swallowed London?",
       "uploaded_at": "2026-09-22T17:11:29.611162",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 60
     },
     {
       "video_id": "HWnxnNgSOws",
@@ -357,6 +357,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Andes Landslide Created a California‑Killing Tsunami?",
       "uploaded_at": "2026-09-25T17:10:37.833451",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "hPkkczFv7qs",
+      "topic": "Ottoman Europe Shift",
+      "category": "history_althistory",
+      "title": "What If the Ottomans Captured Vienna and Redrew Europe?",
+      "uploaded_at": "2026-09-25T22:15:37.182975",
       "views_checked": false,
       "views": 0
     }
