@@ -258,8 +258,8 @@
       "category": "history_althistory",
       "title": "What If China Discovered America First?",
       "uploaded_at": "2026-09-21T22:15:35.125221",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 174
     },
     {
       "video_id": "X8pBR7nERVw",
@@ -339,6 +339,15 @@
       "category": "history_althistory",
       "title": "What If the Spanish Armada Conquered England?",
       "uploaded_at": "2026-09-24T22:15:47.389989",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "EJuy1IjACik",
+      "topic": "magnetic field loss",
+      "category": "space_science",
+      "title": "What If Earth's Magnetic Shield Vanished?",
+      "uploaded_at": "2026-09-25T12:10:53.734038",
       "views_checked": false,
       "views": 0
     }
