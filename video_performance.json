@@ -294,8 +294,8 @@
       "category": "space_science",
       "title": "What If a Comet Created a Second Sun?",
       "uploaded_at": "2026-09-23T12:11:22.512056",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 123
     },
     {
       "video_id": "qfoP4SgkWRs",
@@ -375,6 +375,15 @@
       "category": "space_science",
       "title": "What If a Black Hole Invaded Our Solar System?",
       "uploaded_at": "2026-09-26T12:10:15.644016",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "yOlS4_Zh_P8",
+      "topic": "Sahara Flood",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Sahara Flooded the World?",
+      "uploaded_at": "2026-09-26T17:10:44.400826",
       "views_checked": false,
       "views": 0
     }
