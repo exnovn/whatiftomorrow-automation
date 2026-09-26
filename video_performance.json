@@ -285,8 +285,8 @@
       "category": "history_althistory",
       "title": "What If Rome Conquered America?",
       "uploaded_at": "2026-09-22T22:14:21.598038",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 143
     },
     {
       "video_id": "3xULK5bKdGI",
@@ -366,6 +366,15 @@
       "category": "history_althistory",
       "title": "What If the Ottomans Captured Vienna and Redrew Europe?",
       "uploaded_at": "2026-09-25T22:15:37.182975",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "hlVrMiE_zdk",
+      "topic": "black hole invasion",
+      "category": "space_science",
+      "title": "What If a Black Hole Invaded Our Solar System?",
+      "uploaded_at": "2026-09-26T12:10:15.644016",
       "views_checked": false,
       "views": 0
     }
