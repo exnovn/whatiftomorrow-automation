@@ -321,8 +321,8 @@
       "category": "space_science",
       "title": "What If the Moon Became a Second Sun?",
       "uploaded_at": "2026-09-24T12:11:27.621874",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 22
     },
     {
       "video_id": "rF6-pMqHPHw",
@@ -402,6 +402,15 @@
       "category": "space_science",
       "title": "What If the Sun Unleashed a Super‑Mega Solar Flare?",
       "uploaded_at": "2026-09-27T12:11:09.740499",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "CODtl4Uic1g",
+      "topic": "Sahara rainforest",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Sahara Became a Rainforest?",
+      "uploaded_at": "2026-09-27T17:10:43.994009",
       "views_checked": false,
       "views": 0
     }
