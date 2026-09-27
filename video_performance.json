@@ -312,8 +312,8 @@
       "category": "history_althistory",
       "title": "What If Napoleon Won at Waterloo?",
       "uploaded_at": "2026-09-23T22:15:55.164772",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 18
     },
     {
       "video_id": "YF4ez4AUdt8",
@@ -393,6 +393,15 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-09-26T22:15:14.563525",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "8BR8iDN9KZA",
+      "topic": "Extreme Solar Flare",
+      "category": "space_science",
+      "title": "What If the Sun Unleashed a Super‑Mega Solar Flare?",
+      "uploaded_at": "2026-09-27T12:11:09.740499",
       "views_checked": false,
       "views": 0
     }
