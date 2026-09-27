@@ -330,8 +330,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Atlantic Ocean Became a Volcano?",
       "uploaded_at": "2026-09-24T17:11:29.188765",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 26
     },
     {
       "video_id": "uQgp5ssgzvM",
@@ -411,6 +411,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Sahara Became a Rainforest?",
       "uploaded_at": "2026-09-27T17:10:43.994009",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Ux8O9Yq3mHY",
+      "topic": "Aztec Victory",
+      "category": "history_althistory",
+      "title": "What If the Aztecs Stood Their Ground?",
+      "uploaded_at": "2026-09-27T22:15:24.243932",
       "views_checked": false,
       "views": 0
     }
