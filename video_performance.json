@@ -339,8 +339,8 @@
       "category": "history_althistory",
       "title": "What If the Spanish Armada Conquered England?",
       "uploaded_at": "2026-09-24T22:15:47.389989",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 20
     },
     {
       "video_id": "EJuy1IjACik",
@@ -420,6 +420,15 @@
       "category": "history_althistory",
       "title": "What If the Aztecs Stood Their Ground?",
       "uploaded_at": "2026-09-27T22:15:24.243932",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "OkZkcwtHSOA",
+      "topic": "48‑hour day",
+      "category": "space_science",
+      "title": "What If Earth’s Day Became 48 Hours?",
+      "uploaded_at": "2026-09-28T12:11:26.589534",
       "views_checked": false,
       "views": 0
     }
