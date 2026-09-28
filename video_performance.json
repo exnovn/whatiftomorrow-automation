@@ -348,8 +348,8 @@
       "category": "space_science",
       "title": "What If Earth's Magnetic Shield Vanished?",
       "uploaded_at": "2026-09-25T12:10:53.734038",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 51
     },
     {
       "video_id": "onSFYGrCYog",
@@ -357,8 +357,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Andes Landslide Created a California‑Killing Tsunami?",
       "uploaded_at": "2026-09-25T17:10:37.833451",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 33
     },
     {
       "video_id": "hPkkczFv7qs",
@@ -366,8 +366,8 @@
       "category": "history_althistory",
       "title": "What If the Ottomans Captured Vienna and Redrew Europe?",
       "uploaded_at": "2026-09-25T22:15:37.182975",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 28
     },
     {
       "video_id": "hlVrMiE_zdk",
@@ -429,6 +429,15 @@
       "category": "space_science",
       "title": "What If Earth’s Day Became 48 Hours?",
       "uploaded_at": "2026-09-28T12:11:26.589534",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "_hIAvcIp0KA",
+      "topic": "Alexander conquers Rome",
+      "category": "history_althistory",
+      "title": "What If Alexander Conquered Rome?",
+      "uploaded_at": "2026-09-28T22:23:43.563751",
       "views_checked": false,
       "views": 0
     }
