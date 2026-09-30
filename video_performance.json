@@ -402,8 +402,8 @@
       "category": "space_science",
       "title": "What If the Sun Unleashed a Super‑Mega Solar Flare?",
       "uploaded_at": "2026-09-27T12:11:09.740499",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 26
     },
     {
       "video_id": "CODtl4Uic1g",
@@ -411,8 +411,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Sahara Became a Rainforest?",
       "uploaded_at": "2026-09-27T17:10:43.994009",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 16
     },
     {
       "video_id": "Ux8O9Yq3mHY",
@@ -474,6 +474,15 @@
       "category": "history_althistory",
       "title": "What If the Roman Empire Never Fell?",
       "uploaded_at": "2026-09-30T01:06:25.852702",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "60BcVIsycEU",
+      "topic": "volcano aurora",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Volcano Turned the Night Sky Neon?",
+      "uploaded_at": "2026-09-30T17:18:54.404281",
       "views_checked": false,
       "views": 0
     }
