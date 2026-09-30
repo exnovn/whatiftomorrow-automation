@@ -393,8 +393,8 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-09-26T22:15:14.563525",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 9
     },
     {
       "video_id": "8BR8iDN9KZA",
@@ -465,6 +465,15 @@
       "category": "space_science",
       "title": "What If the Sun Became a Red Dwarf?",
       "uploaded_at": "2026-09-29T21:13:40.980358",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "eNqpJGiR59I",
+      "topic": "Roman Empire persists",
+      "category": "history_althistory",
+      "title": "What If the Roman Empire Never Fell?",
+      "uploaded_at": "2026-09-30T01:06:25.852702",
       "views_checked": false,
       "views": 0
     }
