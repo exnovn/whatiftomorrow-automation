@@ -420,8 +420,8 @@
       "category": "history_althistory",
       "title": "What If the Aztecs Stood Their Ground?",
       "uploaded_at": "2026-09-27T22:15:24.243932",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 19
     },
     {
       "video_id": "OkZkcwtHSOA",
@@ -492,6 +492,15 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Brightness?",
       "uploaded_at": "2026-09-30T21:11:18.229004",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "AffGyT_87Iw",
+      "topic": "Alexandria library",
+      "category": "history_althistory",
+      "title": "What If the Library of Alexandria Never Burned?",
+      "uploaded_at": "2026-10-01T01:05:46.773768",
       "views_checked": false,
       "views": 0
     }
