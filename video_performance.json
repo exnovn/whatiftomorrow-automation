@@ -429,7 +429,7 @@
       "category": "space_science",
       "title": "What If Earth’s Day Became 48 Hours?",
       "uploaded_at": "2026-09-28T12:11:26.589534",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -501,6 +501,15 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-10-01T01:05:46.773768",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "bGCqgzlAaOw",
+      "topic": "Pacific Meteor Tsunami",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Meteor Creates a 200‑Meter Tsunami?",
+      "uploaded_at": "2026-10-01T17:52:25.272012",
       "views_checked": false,
       "views": 0
     }
