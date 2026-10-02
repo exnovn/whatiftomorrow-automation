@@ -456,8 +456,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Yellowstone Supervolcano Erupted Today?",
       "uploaded_at": "2026-09-29T17:20:41.283303",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 46
     },
     {
       "video_id": "e0MUUUjZjdo",
@@ -537,6 +537,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Megatsunami Devastated California Tomorrow?",
       "uploaded_at": "2026-10-02T17:07:13.930698",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "I4ZMC6Z-pvw",
+      "topic": "gamma ray burst",
+      "category": "space_science",
+      "title": "What If a Gamma‑Ray Burst Hit Earth?",
+      "uploaded_at": "2026-10-02T21:08:53.690148",
       "views_checked": false,
       "views": 0
     }
