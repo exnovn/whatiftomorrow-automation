@@ -447,8 +447,8 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-09-29T01:30:57.090554",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 58
     },
     {
       "video_id": "-k3iWh-KrKM",
@@ -528,6 +528,15 @@
       "category": "history_althistory",
       "title": "What If the Ming Dynasty Never Fell",
       "uploaded_at": "2026-10-02T01:19:10.337705",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "l6S-BWEt28k",
+      "topic": "west coast megatsunami",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Megatsunami Devastated California Tomorrow?",
+      "uploaded_at": "2026-10-02T17:07:13.930698",
       "views_checked": false,
       "views": 0
     }
