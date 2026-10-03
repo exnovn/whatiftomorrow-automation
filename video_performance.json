@@ -474,8 +474,8 @@
       "category": "history_althistory",
       "title": "What If the Roman Empire Never Fell?",
       "uploaded_at": "2026-09-30T01:06:25.852702",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 30
     },
     {
       "video_id": "60BcVIsycEU",
@@ -555,6 +555,15 @@
       "category": "space_science",
       "title": "What If Jupiter Pulled Earth Outward?",
       "uploaded_at": "2026-10-03T00:58:02.536683",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "KyiZztALf1s",
+      "topic": "gravity reversal",
+      "category": "space_science",
+      "title": "What If Earth's Gravity Flipped for Ten Seconds?",
+      "uploaded_at": "2026-10-03T15:28:20.435514",
       "views_checked": false,
       "views": 0
     }
