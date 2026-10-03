@@ -465,8 +465,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Red Dwarf?",
       "uploaded_at": "2026-09-29T21:13:40.980358",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 162
     },
     {
       "video_id": "eNqpJGiR59I",
@@ -546,6 +546,15 @@
       "category": "space_science",
       "title": "What If a Gamma‑Ray Burst Hit Earth?",
       "uploaded_at": "2026-10-02T21:08:53.690148",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "GXBndxf6wgE",
+      "topic": "Jupiter pulls Earth",
+      "category": "space_science",
+      "title": "What If Jupiter Pulled Earth Outward?",
+      "uploaded_at": "2026-10-03T00:58:02.536683",
       "views_checked": false,
       "views": 0
     }
