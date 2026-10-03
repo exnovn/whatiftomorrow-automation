@@ -483,8 +483,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Volcano Turned the Night Sky Neon?",
       "uploaded_at": "2026-09-30T17:18:54.404281",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "bxVYx3gtVx8",
@@ -564,6 +564,15 @@
       "category": "space_science",
       "title": "What If Earth's Gravity Flipped for Ten Seconds?",
       "uploaded_at": "2026-10-03T15:28:20.435514",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "f0OEuIHzQCc",
+      "topic": "Alexandria survives",
+      "category": "history_althistory",
+      "title": "What If the Library of Alexandria Never Burned?",
+      "uploaded_at": "2026-10-03T19:40:13.136343",
       "views_checked": false,
       "views": 0
     }
