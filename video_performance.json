@@ -492,8 +492,8 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Brightness?",
       "uploaded_at": "2026-09-30T21:11:18.229004",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 171
     },
     {
       "video_id": "AffGyT_87Iw",
@@ -573,6 +573,15 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-10-03T19:40:13.136343",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "odXyfDuMHRQ",
+      "topic": "Sun becomes pulsar",
+      "category": "space_science",
+      "title": "What If the Sun Became a Pulsar?",
+      "uploaded_at": "2026-10-04T00:22:51.675107",
       "views_checked": false,
       "views": 0
     }
