@@ -510,8 +510,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Meteor Creates a 200‑Meter Tsunami?",
       "uploaded_at": "2026-10-01T17:52:25.272012",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 144
     },
     {
       "video_id": "OCI4qlHdlmM",
@@ -591,6 +591,15 @@
       "category": "history_althistory",
       "title": "What If the Mongols Conquered Europe?",
       "uploaded_at": "2026-10-04T16:13:14.972547",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "VPuE_LDVm_U",
+      "topic": "Persian conquest",
+      "category": "history_althistory",
+      "title": "What If Persia Conquered Greece?",
+      "uploaded_at": "2026-10-04T19:53:57.441337",
       "views_checked": false,
       "views": 0
     }
