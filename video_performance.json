@@ -546,8 +546,8 @@
       "category": "space_science",
       "title": "What If a Gamma‑Ray Burst Hit Earth?",
       "uploaded_at": "2026-10-02T21:08:53.690148",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 150
     },
     {
       "video_id": "GXBndxf6wgE",
@@ -618,6 +618,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica Disappeared Overnight?",
       "uploaded_at": "2026-10-05T20:09:21.665233",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "LEkBv3kJrks",
+      "topic": "Great Lakes volcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Volcano Erupted Under the Great Lakes?",
+      "uploaded_at": "2026-10-05T23:03:17.111000",
       "views_checked": false,
       "views": 0
     }
