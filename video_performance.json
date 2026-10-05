@@ -528,8 +528,8 @@
       "category": "history_althistory",
       "title": "What If the Ming Dynasty Never Fell",
       "uploaded_at": "2026-10-02T01:19:10.337705",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 153
     },
     {
       "video_id": "l6S-BWEt28k",
@@ -537,8 +537,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Megatsunami Devastated California Tomorrow?",
       "uploaded_at": "2026-10-02T17:07:13.930698",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 10
     },
     {
       "video_id": "I4ZMC6Z-pvw",
@@ -609,6 +609,15 @@
       "category": "space_science",
       "title": "What If a Brown Dwarf Invaded Our Solar System?",
       "uploaded_at": "2026-10-05T00:28:08.212143",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "HfzCYMxOCbU",
+      "topic": "Antarctic Ice Melt",
+      "category": "disaster_mystery_survival",
+      "title": "What If Antarctica Disappeared Overnight?",
+      "uploaded_at": "2026-10-05T20:09:21.665233",
       "views_checked": false,
       "views": 0
     }
