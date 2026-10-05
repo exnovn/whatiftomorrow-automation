@@ -519,8 +519,8 @@
       "category": "space_science",
       "title": "What If a Neutron Star Grazed Earth?",
       "uploaded_at": "2026-10-01T21:33:51.252834",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 210
     },
     {
       "video_id": "P9OvHH3rEYs",
@@ -600,6 +600,15 @@
       "category": "history_althistory",
       "title": "What If Persia Conquered Greece?",
       "uploaded_at": "2026-10-04T19:53:57.441337",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "zXTPXpSGml0",
+      "topic": "brown dwarf invasion",
+      "category": "space_science",
+      "title": "What If a Brown Dwarf Invaded Our Solar System?",
+      "uploaded_at": "2026-10-05T00:28:08.212143",
       "views_checked": false,
       "views": 0
     }
