@@ -564,8 +564,8 @@
       "category": "space_science",
       "title": "What If Earth's Gravity Flipped for Ten Seconds?",
       "uploaded_at": "2026-10-03T15:28:20.435514",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 60
     },
     {
       "video_id": "f0OEuIHzQCc",
@@ -636,6 +636,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica’s Ice Wall Collapsed and Created a Global Megatsunami?",
       "uploaded_at": "2026-10-06T02:05:44.033611",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "lWOFpidJVW4",
+      "topic": "Atlantic Super‑Tornado",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Super‑Tornado Swallowed the East Coast?",
+      "uploaded_at": "2026-10-06T17:39:43.263055",
       "views_checked": false,
       "views": 0
     }
