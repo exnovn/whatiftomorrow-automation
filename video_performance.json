@@ -573,8 +573,8 @@
       "category": "history_althistory",
       "title": "What If the Library of Alexandria Never Burned?",
       "uploaded_at": "2026-10-03T19:40:13.136343",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 18
     },
     {
       "video_id": "odXyfDuMHRQ",
@@ -645,6 +645,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Super‑Tornado Swallowed the East Coast?",
       "uploaded_at": "2026-10-06T17:39:43.263055",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "IQW8lJv1hb0",
+      "topic": "Moon collision",
+      "category": "space_science",
+      "title": "What If the Moon Fell to Earth?",
+      "uploaded_at": "2026-10-06T21:25:58.542482",
       "views_checked": false,
       "views": 0
     }
