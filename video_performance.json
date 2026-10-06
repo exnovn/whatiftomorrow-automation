@@ -555,8 +555,8 @@
       "category": "space_science",
       "title": "What If Jupiter Pulled Earth Outward?",
       "uploaded_at": "2026-10-03T00:58:02.536683",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 148
     },
     {
       "video_id": "KyiZztALf1s",
@@ -627,6 +627,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Volcano Erupted Under the Great Lakes?",
       "uploaded_at": "2026-10-05T23:03:17.111000",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Aq0B0veif3g",
+      "topic": "Antarctic megatsunami",
+      "category": "disaster_mystery_survival",
+      "title": "What If Antarctica’s Ice Wall Collapsed and Created a Global Megatsunami?",
+      "uploaded_at": "2026-10-06T02:05:44.033611",
       "views_checked": false,
       "views": 0
     }
