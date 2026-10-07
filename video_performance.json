@@ -582,8 +582,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Pulsar?",
       "uploaded_at": "2026-10-04T00:22:51.675107",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 38
     },
     {
       "video_id": "UQT_B3dZhco",
@@ -654,6 +654,15 @@
       "category": "space_science",
       "title": "What If the Moon Fell to Earth?",
       "uploaded_at": "2026-10-06T21:25:58.542482",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "G8XtMAFoCFU",
+      "topic": "Viking Empire",
+      "category": "history_althistory",
+      "title": "What If Vikings Built a New World Empire?",
+      "uploaded_at": "2026-10-07T01:15:19.994321",
       "views_checked": false,
       "views": 0
     }
