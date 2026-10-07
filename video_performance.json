@@ -591,8 +591,8 @@
       "category": "history_althistory",
       "title": "What If the Mongols Conquered Europe?",
       "uploaded_at": "2026-10-04T16:13:14.972547",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 15
     },
     {
       "video_id": "VPuE_LDVm_U",
@@ -600,8 +600,8 @@
       "category": "history_althistory",
       "title": "What If Persia Conquered Greece?",
       "uploaded_at": "2026-10-04T19:53:57.441337",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 74
     },
     {
       "video_id": "zXTPXpSGml0",
@@ -663,6 +663,15 @@
       "category": "history_althistory",
       "title": "What If Vikings Built a New World Empire?",
       "uploaded_at": "2026-10-07T01:15:19.994321",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "l8J_3APOyjk",
+      "topic": "rogue planet",
+      "category": "space_science",
+      "title": "What If a Rogue Jupiter‑Sized Planet Invaded Our Solar System",
+      "uploaded_at": "2026-10-07T21:44:10.403563",
       "views_checked": false,
       "views": 0
     }
