@@ -618,8 +618,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica Disappeared Overnight?",
       "uploaded_at": "2026-10-05T20:09:21.665233",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 142
     },
     {
       "video_id": "LEkBv3kJrks",
@@ -690,6 +690,15 @@
       "category": "space_science",
       "title": "What If the Sun Became a Black Hole?",
       "uploaded_at": "2026-10-08T18:14:39.252948",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "PAlzXPI1aCc",
+      "topic": "Nearby Supernova",
+      "category": "space_science",
+      "title": "What If a Supernova Went Off Next Door?",
+      "uploaded_at": "2026-10-08T21:44:04.063660",
       "views_checked": false,
       "views": 0
     }
