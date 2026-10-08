@@ -609,8 +609,8 @@
       "category": "space_science",
       "title": "What If a Brown Dwarf Invaded Our Solar System?",
       "uploaded_at": "2026-10-05T00:28:08.212143",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "HfzCYMxOCbU",
@@ -672,6 +672,15 @@
       "category": "space_science",
       "title": "What If a Rogue Jupiter‑Sized Planet Invaded Our Solar System",
       "uploaded_at": "2026-10-07T21:44:10.403563",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Jo_eUVqGEJY",
+      "topic": "Napoleon victory",
+      "category": "history_althistory",
+      "title": "What If Napoleon Won at Waterloo?",
+      "uploaded_at": "2026-10-08T01:35:30.442825",
       "views_checked": false,
       "views": 0
     }
