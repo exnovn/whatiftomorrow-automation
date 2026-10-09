@@ -636,8 +636,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica’s Ice Wall Collapsed and Created a Global Megatsunami?",
       "uploaded_at": "2026-10-06T02:05:44.033611",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "lWOFpidJVW4",
@@ -645,8 +645,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Super‑Tornado Swallowed the East Coast?",
       "uploaded_at": "2026-10-06T17:39:43.263055",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 138
     },
     {
       "video_id": "IQW8lJv1hb0",
@@ -708,6 +708,15 @@
       "category": "history_althistory",
       "title": "What If the Spanish Armada Crushed England?",
       "uploaded_at": "2026-10-09T01:46:31.798843",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "OR9DmDq00MY",
+      "topic": "Sahara supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Sahara Supervolcano Erupts",
+      "uploaded_at": "2026-10-09T17:46:57.135656",
       "views_checked": false,
       "views": 0
     }
