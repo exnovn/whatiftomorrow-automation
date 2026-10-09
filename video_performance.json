@@ -627,8 +627,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Volcano Erupted Under the Great Lakes?",
       "uploaded_at": "2026-10-05T23:03:17.111000",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 9
     },
     {
       "video_id": "Aq0B0veif3g",
@@ -699,6 +699,15 @@
       "category": "space_science",
       "title": "What If a Supernova Went Off Next Door?",
       "uploaded_at": "2026-10-08T21:44:04.063660",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "hpq3QpsB4qM",
+      "topic": "Armada Victory",
+      "category": "history_althistory",
+      "title": "What If the Spanish Armada Crushed England?",
+      "uploaded_at": "2026-10-09T01:46:31.798843",
       "views_checked": false,
       "views": 0
     }
