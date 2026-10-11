@@ -690,8 +690,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Black Hole?",
       "uploaded_at": "2026-10-08T18:14:39.252948",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 65
     },
     {
       "video_id": "PAlzXPI1aCc",
@@ -771,6 +771,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Supervolcano Buried Manhattan?",
       "uploaded_at": "2026-10-11T17:05:55.356149",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "mc_Rj1qfkp8",
+      "topic": "Atlantic Supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Atlantic Ocean Became a Supervolcano?",
+      "uploaded_at": "2026-10-11T20:45:04.061723",
       "views_checked": false,
       "views": 0
     }
