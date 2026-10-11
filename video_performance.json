@@ -681,8 +681,8 @@
       "category": "history_althistory",
       "title": "What If Napoleon Won at Waterloo?",
       "uploaded_at": "2026-10-08T01:35:30.442825",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 35
     },
     {
       "video_id": "NZPSEMqFqiI",
@@ -762,6 +762,15 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Mass?",
       "uploaded_at": "2026-10-11T00:42:13.062817",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "NEwTYIdP9EY",
+      "topic": "Manhattan Supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Supervolcano Buried Manhattan?",
+      "uploaded_at": "2026-10-11T17:05:55.356149",
       "views_checked": false,
       "views": 0
     }
