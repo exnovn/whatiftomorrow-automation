@@ -672,8 +672,8 @@
       "category": "space_science",
       "title": "What If a Rogue Jupiter‑Sized Planet Invaded Our Solar System",
       "uploaded_at": "2026-10-07T21:44:10.403563",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 76
     },
     {
       "video_id": "Jo_eUVqGEJY",
@@ -753,6 +753,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Living Dinosaurs Hide in the Andes?",
       "uploaded_at": "2026-10-10T20:27:20.457209",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "A-lqo2R2p3g",
+      "topic": "Sun mass increase",
+      "category": "space_science",
+      "title": "What If the Sun Suddenly Doubled Its Mass?",
+      "uploaded_at": "2026-10-11T00:42:13.062817",
       "views_checked": false,
       "views": 0
     }
