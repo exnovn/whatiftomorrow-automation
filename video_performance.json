@@ -699,8 +699,8 @@
       "category": "space_science",
       "title": "What If a Supernova Went Off Next Door?",
       "uploaded_at": "2026-10-08T21:44:04.063660",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 99
     },
     {
       "video_id": "hpq3QpsB4qM",
@@ -780,6 +780,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Atlantic Ocean Became a Supervolcano?",
       "uploaded_at": "2026-10-11T20:45:04.061723",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "1AJAD__oWX0",
+      "topic": "Mayan Atlantic Empire",
+      "category": "history_althistory",
+      "title": "What If the Mayan Empire Ruled the Atlantic?",
+      "uploaded_at": "2026-10-12T01:02:23.970038",
       "views_checked": false,
       "views": 0
     }
