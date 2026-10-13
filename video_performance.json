@@ -708,8 +708,8 @@
       "category": "history_althistory",
       "title": "What If the Spanish Armada Crushed England?",
       "uploaded_at": "2026-10-09T01:46:31.798843",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 10
     },
     {
       "video_id": "OR9DmDq00MY",
@@ -717,8 +717,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Sahara Supervolcano Erupts",
       "uploaded_at": "2026-10-09T17:46:57.135656",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 16
     },
     {
       "video_id": "Tnq4UkFps7I",
@@ -726,8 +726,8 @@
       "category": "space_science",
       "title": "What If Earth’s Magnetic Field Suddenly Flipped?",
       "uploaded_at": "2026-10-09T21:26:39.697357",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "Bh9qLeBAIPM",
@@ -735,8 +735,8 @@
       "category": "history_althistory",
       "title": "What If the Black Death Never Happened",
       "uploaded_at": "2026-10-10T01:32:49.433523",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "5LgYKbd_yew",
@@ -744,8 +744,8 @@
       "category": "history_althistory",
       "title": "What If Carthage Defeated Rome?",
       "uploaded_at": "2026-10-10T16:40:04.358271",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "xoWjIUsKJyk",
@@ -789,6 +789,15 @@
       "category": "history_althistory",
       "title": "What If the Mayan Empire Ruled the Atlantic?",
       "uploaded_at": "2026-10-12T01:02:23.970038",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "yUoMb8OqAqc",
+      "topic": "rogue black hole",
+      "category": "space_science",
+      "title": "What If a Black Hole Slid Through Our Solar System?",
+      "uploaded_at": "2026-10-13T18:43:43.507488",
       "views_checked": false,
       "views": 0
     }
