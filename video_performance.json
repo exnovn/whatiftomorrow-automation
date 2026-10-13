@@ -753,8 +753,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Living Dinosaurs Hide in the Andes?",
       "uploaded_at": "2026-10-10T20:27:20.457209",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 9
     },
     {
       "video_id": "A-lqo2R2p3g",
@@ -798,6 +798,15 @@
       "category": "space_science",
       "title": "What If a Black Hole Slid Through Our Solar System?",
       "uploaded_at": "2026-10-13T18:43:43.507488",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "d5WV1xjj8Us",
+      "topic": "Sun Output Halved",
+      "category": "space_science",
+      "title": "What If the Sun Went Half‑Power?",
+      "uploaded_at": "2026-10-13T21:42:53.268246",
       "views_checked": false,
       "views": 0
     }
