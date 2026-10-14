@@ -762,8 +762,8 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Mass?",
       "uploaded_at": "2026-10-11T00:42:13.062817",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "NEwTYIdP9EY",
@@ -807,6 +807,15 @@
       "category": "space_science",
       "title": "What If the Sun Went Half‑Power?",
       "uploaded_at": "2026-10-13T21:42:53.268246",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "2x9gwmurGMg",
+      "topic": "comet tail encounter",
+      "category": "space_science",
+      "title": "What If Earth Flew Through a Comet Tail?",
+      "uploaded_at": "2026-10-14T00:55:35.522088",
       "views_checked": false,
       "views": 0
     }
