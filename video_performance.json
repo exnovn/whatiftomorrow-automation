@@ -789,7 +789,7 @@
       "category": "history_althistory",
       "title": "What If the Mayan Empire Ruled the Atlantic?",
       "uploaded_at": "2026-10-12T01:02:23.970038",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -843,6 +843,15 @@
       "category": "space_science",
       "title": "What If the Moon Suddenly Doubled Its Mass?",
       "uploaded_at": "2026-10-15T00:18:52.479486",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "7Ke7d0VrmFs",
+      "topic": "Inca gunpowder",
+      "category": "history_althistory",
+      "title": "What If the Incas Invented Gunpowder?",
+      "uploaded_at": "2026-10-15T16:02:49.269952",
       "views_checked": false,
       "views": 0
     }
