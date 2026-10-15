@@ -780,8 +780,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Atlantic Ocean Became a Supervolcano?",
       "uploaded_at": "2026-10-11T20:45:04.061723",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 57
     },
     {
       "video_id": "1AJAD__oWX0",
@@ -834,6 +834,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Pacific Ocean Became a Boiling Cauldron?",
       "uploaded_at": "2026-10-14T20:25:04.314051",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "e2szjrgSyRc",
+      "topic": "Moon mass increase",
+      "category": "space_science",
+      "title": "What If the Moon Suddenly Doubled Its Mass?",
+      "uploaded_at": "2026-10-15T00:18:52.479486",
       "views_checked": false,
       "views": 0
     }
