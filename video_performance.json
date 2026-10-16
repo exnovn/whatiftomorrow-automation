@@ -798,8 +798,8 @@
       "category": "space_science",
       "title": "What If a Black Hole Slid Through Our Solar System?",
       "uploaded_at": "2026-10-13T18:43:43.507488",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 299
     },
     {
       "video_id": "d5WV1xjj8Us",
@@ -879,6 +879,15 @@
       "category": "space_science",
       "title": "What If Earth Jumped 10% Farther From the Sun?",
       "uploaded_at": "2026-10-16T15:50:13.264561",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "QqPPCoGxlxo",
+      "topic": "Roman Empire persists",
+      "category": "history_althistory",
+      "title": "What If Rome Never Fell?",
+      "uploaded_at": "2026-10-16T19:47:51.259178",
       "views_checked": false,
       "views": 0
     }
