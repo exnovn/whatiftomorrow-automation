@@ -825,8 +825,8 @@
       "category": "history_althistory",
       "title": "What If the Greeks Had Gunpowder?",
       "uploaded_at": "2026-10-14T16:14:42.366777",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 9
     },
     {
       "video_id": "ciJ_XP81tzs",
@@ -906,6 +906,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Super Solar Flare Cripples Earth?",
       "uploaded_at": "2026-10-17T14:46:35.701377",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "bE6T_GJ_YLg",
+      "topic": "Saturn ring collapse",
+      "category": "space_science",
+      "title": "What If Saturn’s Rings Fell Into the Planet?",
+      "uploaded_at": "2026-10-17T19:00:00.133309",
       "views_checked": false,
       "views": 0
     }
