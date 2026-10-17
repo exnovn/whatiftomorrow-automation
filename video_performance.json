@@ -834,8 +834,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Pacific Ocean Became a Boiling Cauldron?",
       "uploaded_at": "2026-10-14T20:25:04.314051",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "e2szjrgSyRc",
@@ -915,6 +915,15 @@
       "category": "space_science",
       "title": "What If Saturn’s Rings Fell Into the Planet?",
       "uploaded_at": "2026-10-17T19:00:00.133309",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "kg9WeVfbkVw",
+      "topic": "Midwest Sinkhole",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Midwest Disappeared Overnight?",
+      "uploaded_at": "2026-10-17T23:46:30.142597",
       "views_checked": false,
       "views": 0
     }
