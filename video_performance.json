@@ -807,8 +807,8 @@
       "category": "space_science",
       "title": "What If the Sun Went Half‑Power?",
       "uploaded_at": "2026-10-13T21:42:53.268246",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 55
     },
     {
       "video_id": "2x9gwmurGMg",
@@ -888,6 +888,15 @@
       "category": "history_althistory",
       "title": "What If Rome Never Fell?",
       "uploaded_at": "2026-10-16T19:47:51.259178",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "_9fcU0AOGaw",
+      "topic": "neutron star impact",
+      "category": "space_science",
+      "title": "What If a Neutron Star Hit Earth?",
+      "uploaded_at": "2026-10-17T00:10:45.473284",
       "views_checked": false,
       "views": 0
     }
