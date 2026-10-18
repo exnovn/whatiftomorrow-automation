@@ -852,8 +852,8 @@
       "category": "history_althistory",
       "title": "What If the Incas Invented Gunpowder?",
       "uploaded_at": "2026-10-15T16:02:49.269952",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 40
     },
     {
       "video_id": "1HwgN8Q4mek",
@@ -933,6 +933,15 @@
       "category": "space_science",
       "title": "What If the Moon Reversed Its Orbit?",
       "uploaded_at": "2026-10-18T15:12:27.212755",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "etwg-7hV1iA",
+      "topic": "Ming exploration",
+      "category": "history_althistory",
+      "title": "What If Zheng He Discovered America First?",
+      "uploaded_at": "2026-10-18T19:13:11.025294",
       "views_checked": false,
       "views": 0
     }
