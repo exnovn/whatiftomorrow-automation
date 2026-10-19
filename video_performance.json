@@ -861,8 +861,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Yellowstone Went Supervolcanic?",
       "uploaded_at": "2026-10-15T20:10:38.728207",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "Knwg8OL2NSs",
@@ -942,6 +942,15 @@
       "category": "history_althistory",
       "title": "What If Zheng He Discovered America First?",
       "uploaded_at": "2026-10-18T19:13:11.025294",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "x4EoPJNGepQ",
+      "topic": "solar storm impact",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Mega Solar Storm Hit Earth Today?",
+      "uploaded_at": "2026-10-19T00:00:16.586517",
       "views_checked": false,
       "views": 0
     }
