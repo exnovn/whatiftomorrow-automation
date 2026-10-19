@@ -870,8 +870,8 @@
       "category": "space_science",
       "title": "What If the Sun Stopped Spinning?",
       "uploaded_at": "2026-10-16T00:07:03.578979",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 63
     },
     {
       "video_id": "KxQ4fw1D2_I",
@@ -879,8 +879,8 @@
       "category": "space_science",
       "title": "What If Earth Jumped 10% Farther From the Sun?",
       "uploaded_at": "2026-10-16T15:50:13.264561",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 100
     },
     {
       "video_id": "QqPPCoGxlxo",
@@ -951,6 +951,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Mega Solar Storm Hit Earth Today?",
       "uploaded_at": "2026-10-19T00:00:16.586517",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "L_IBUYebkTE",
+      "topic": "Dyson Swarm",
+      "category": "space_science",
+      "title": "What If a Dyson Swarm Wrapped the Sun Overnight?",
+      "uploaded_at": "2026-10-19T18:02:34.674547",
       "views_checked": false,
       "views": 0
     }
