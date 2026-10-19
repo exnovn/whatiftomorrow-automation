@@ -888,8 +888,8 @@
       "category": "history_althistory",
       "title": "What If Rome Never Fell?",
       "uploaded_at": "2026-10-16T19:47:51.259178",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 49
     },
     {
       "video_id": "_9fcU0AOGaw",
@@ -960,6 +960,15 @@
       "category": "space_science",
       "title": "What If a Dyson Swarm Wrapped the Sun Overnight?",
       "uploaded_at": "2026-10-19T18:02:34.674547",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "SCnrh9ziNec",
+      "topic": "red supergiant sun",
+      "category": "space_science",
+      "title": "What If the Sun Became a Red Supergiant Overnight?",
+      "uploaded_at": "2026-10-19T21:20:18.748892",
       "views_checked": false,
       "views": 0
     }
