@@ -915,8 +915,8 @@
       "category": "space_science",
       "title": "What If Saturn’s Rings Fell Into the Planet?",
       "uploaded_at": "2026-10-17T19:00:00.133309",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 188
     },
     {
       "video_id": "kg9WeVfbkVw",
@@ -987,6 +987,15 @@
       "category": "history_althistory",
       "title": "What If the Ottoman Empire Conquered the Americas?",
       "uploaded_at": "2026-10-20T16:05:10.156899",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "No6kFTndCrU",
+      "topic": "Amazon Supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Supervolcano Awakens Beneath the Amazon?",
+      "uploaded_at": "2026-10-20T20:16:03.074529",
       "views_checked": false,
       "views": 0
     }
