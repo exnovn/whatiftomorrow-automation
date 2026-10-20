@@ -906,8 +906,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Super Solar Flare Cripples Earth?",
       "uploaded_at": "2026-10-17T14:46:35.701377",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "bE6T_GJ_YLg",
@@ -978,6 +978,15 @@
       "category": "space_science",
       "title": "What If a Black Hole Swallowed the Sun?",
       "uploaded_at": "2026-10-20T00:55:48.320091",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "dW3FGkjhoRY",
+      "topic": "Ottoman Americas",
+      "category": "history_althistory",
+      "title": "What If the Ottoman Empire Conquered the Americas?",
+      "uploaded_at": "2026-10-20T16:05:10.156899",
       "views_checked": false,
       "views": 0
     }
