@@ -924,8 +924,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Midwest Disappeared Overnight?",
       "uploaded_at": "2026-10-17T23:46:30.142597",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 89
     },
     {
       "video_id": "gHwLMWaWcJw",
@@ -996,6 +996,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Supervolcano Awakens Beneath the Amazon?",
       "uploaded_at": "2026-10-20T20:16:03.074529",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "BIkifQ6qP_s",
+      "topic": "gamma ray burst",
+      "category": "space_science",
+      "title": "What If a Gamma‑Ray Burst Hit Earth Tomorrow?",
+      "uploaded_at": "2026-10-21T00:24:55.312494",
       "views_checked": false,
       "views": 0
     }
