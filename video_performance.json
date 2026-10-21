@@ -942,7 +942,7 @@
       "category": "history_althistory",
       "title": "What If Zheng He Discovered America First?",
       "uploaded_at": "2026-10-18T19:13:11.025294",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1014,6 +1014,15 @@
       "category": "history_althistory",
       "title": "What If the Greeks Invented Gunpowder?",
       "uploaded_at": "2026-10-21T16:22:12.525628",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "UuNoXagOFBI",
+      "topic": "Frozen Core",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Earth's Core Turned Into Ice?",
+      "uploaded_at": "2026-10-21T20:28:19.172432",
       "views_checked": false,
       "views": 0
     }
