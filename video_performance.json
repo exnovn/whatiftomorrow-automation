@@ -933,8 +933,8 @@
       "category": "space_science",
       "title": "What If the Moon Reversed Its Orbit?",
       "uploaded_at": "2026-10-18T15:12:27.212755",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 76
     },
     {
       "video_id": "etwg-7hV1iA",
@@ -1005,6 +1005,15 @@
       "category": "space_science",
       "title": "What If a Gamma‑Ray Burst Hit Earth Tomorrow?",
       "uploaded_at": "2026-10-21T00:24:55.312494",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "e6XCACBzPjU",
+      "topic": "ancient gunpowder",
+      "category": "history_althistory",
+      "title": "What If the Greeks Invented Gunpowder?",
+      "uploaded_at": "2026-10-21T16:22:12.525628",
       "views_checked": false,
       "views": 0
     }
