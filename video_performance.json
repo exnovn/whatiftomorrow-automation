@@ -960,8 +960,8 @@
       "category": "space_science",
       "title": "What If a Dyson Swarm Wrapped the Sun Overnight?",
       "uploaded_at": "2026-10-19T18:02:34.674547",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 14
     },
     {
       "video_id": "SCnrh9ziNec",
@@ -1041,6 +1041,15 @@
       "category": "history_althistory",
       "title": "What If Constantinople Never Fell?",
       "uploaded_at": "2026-10-22T16:36:04.572271",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "z8S42W_j5nc",
+      "topic": "Antarctic Ice Collapse",
+      "category": "disaster_mystery_survival",
+      "title": "What If Antarctica’s Ice Shelf Vanished Overnight?",
+      "uploaded_at": "2026-10-22T20:23:29.298442",
       "views_checked": false,
       "views": 0
     }
