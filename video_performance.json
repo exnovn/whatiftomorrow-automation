@@ -951,8 +951,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Mega Solar Storm Hit Earth Today?",
       "uploaded_at": "2026-10-19T00:00:16.586517",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 24
     },
     {
       "video_id": "L_IBUYebkTE",
@@ -1023,6 +1023,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Earth's Core Turned Into Ice?",
       "uploaded_at": "2026-10-21T20:28:19.172432",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "9ItEMEYepXE",
+      "topic": "axis tilt shift",
+      "category": "space_science",
+      "title": "What If Earth Tilted 45 Degrees Overnight?",
+      "uploaded_at": "2026-10-22T00:28:35.706086",
       "views_checked": false,
       "views": 0
     }
