@@ -969,8 +969,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Red Supergiant Overnight?",
       "uploaded_at": "2026-10-19T21:20:18.748892",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 65
     },
     {
       "video_id": "7NFJM14OJUA",
@@ -978,8 +978,8 @@
       "category": "space_science",
       "title": "What If a Black Hole Swallowed the Sun?",
       "uploaded_at": "2026-10-20T00:55:48.320091",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 33
     },
     {
       "video_id": "dW3FGkjhoRY",
@@ -1050,6 +1050,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica’s Ice Shelf Vanished Overnight?",
       "uploaded_at": "2026-10-22T20:23:29.298442",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Dm3e4YnlQA8",
+      "topic": "Minoan Empire",
+      "category": "history_althistory",
+      "title": "What If the Minoans Built an Empire?",
+      "uploaded_at": "2026-10-23T01:30:33.854500",
       "views_checked": false,
       "views": 0
     }
