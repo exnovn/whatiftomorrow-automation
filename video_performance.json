@@ -996,8 +996,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Supervolcano Awakens Beneath the Amazon?",
       "uploaded_at": "2026-10-20T20:16:03.074529",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 19
     },
     {
       "video_id": "BIkifQ6qP_s",
@@ -1077,6 +1077,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If A 300‑Foot Tsunami Crashes Into California?",
       "uploaded_at": "2026-10-23T20:11:42.744067",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "9iNWQKPDyG4",
+      "topic": "jupiter becomes star",
+      "category": "space_science",
+      "title": "What If Jupiter Turned Into a Second Sun?",
+      "uploaded_at": "2026-10-24T00:17:25.485910",
       "views_checked": false,
       "views": 0
     }
