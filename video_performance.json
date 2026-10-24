@@ -1005,8 +1005,8 @@
       "category": "space_science",
       "title": "What If a Gamma‑Ray Burst Hit Earth Tomorrow?",
       "uploaded_at": "2026-10-21T00:24:55.312494",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 28
     },
     {
       "video_id": "e6XCACBzPjU",
@@ -1086,6 +1086,15 @@
       "category": "space_science",
       "title": "What If Jupiter Turned Into a Second Sun?",
       "uploaded_at": "2026-10-24T00:17:25.485910",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "D9o1Hx7d4D8",
+      "topic": "Venus climate shift",
+      "category": "space_science",
+      "title": "What If Venus Became Earth-Like Overnight?",
+      "uploaded_at": "2026-10-24T15:07:19.585244",
       "views_checked": false,
       "views": 0
     }
