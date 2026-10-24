@@ -1014,8 +1014,8 @@
       "category": "history_althistory",
       "title": "What If the Greeks Invented Gunpowder?",
       "uploaded_at": "2026-10-21T16:22:12.525628",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "UuNoXagOFBI",
@@ -1095,6 +1095,15 @@
       "category": "space_science",
       "title": "What If Venus Became Earth-Like Overnight?",
       "uploaded_at": "2026-10-24T15:07:19.585244",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "khE4je0jjs8",
+      "topic": "Cleopatra vs Rome",
+      "category": "history_althistory",
+      "title": "What If Cleopatra Destroyed Rome's Fleet?",
+      "uploaded_at": "2026-10-24T19:12:48.143640",
       "views_checked": false,
       "views": 0
     }
