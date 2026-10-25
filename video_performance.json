@@ -1050,7 +1050,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica’s Ice Shelf Vanished Overnight?",
       "uploaded_at": "2026-10-22T20:23:29.298442",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1131,6 +1131,15 @@
       "category": "history_althistory",
       "title": "What If Persia Never Fell",
       "uploaded_at": "2026-10-25T19:27:33.202778",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Jed-tmiZ44o",
+      "topic": "giant tornado",
+      "category": "disaster_mystery_survival",
+      "title": "What If a 10‑Mile‑High Tornado Hit Manhattan?",
+      "uploaded_at": "2026-10-25T23:50:48.028504",
       "views_checked": false,
       "views": 0
     }
