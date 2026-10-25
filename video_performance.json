@@ -1041,8 +1041,8 @@
       "category": "history_althistory",
       "title": "What If Constantinople Never Fell?",
       "uploaded_at": "2026-10-22T16:36:04.572271",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "z8S42W_j5nc",
@@ -1122,6 +1122,15 @@
       "category": "space_science",
       "title": "What If Earth's Magnetic Shield Vanished?",
       "uploaded_at": "2026-10-25T15:20:00.838940",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "IcchzXiECCk",
+      "topic": "Persian Empire",
+      "category": "history_althistory",
+      "title": "What If Persia Never Fell",
+      "uploaded_at": "2026-10-25T19:27:33.202778",
       "views_checked": false,
       "views": 0
     }
