@@ -1032,8 +1032,8 @@
       "category": "space_science",
       "title": "What If Earth Tilted 45 Degrees Overnight?",
       "uploaded_at": "2026-10-22T00:28:35.706086",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 25
     },
     {
       "video_id": "kF2QFoWnpVU",
@@ -1113,6 +1113,15 @@
       "category": "space_science",
       "title": "What If a Nearby Star Went Supernova Tomorrow?",
       "uploaded_at": "2026-10-25T00:01:49.604098",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "wYSQBV9yAdw",
+      "topic": "magnetic field loss",
+      "category": "space_science",
+      "title": "What If Earth's Magnetic Shield Vanished?",
+      "uploaded_at": "2026-10-25T15:20:00.838940",
       "views_checked": false,
       "views": 0
     }
