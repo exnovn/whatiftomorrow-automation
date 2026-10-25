@@ -1023,8 +1023,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Earth's Core Turned Into Ice?",
       "uploaded_at": "2026-10-21T20:28:19.172432",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "9ItEMEYepXE",
@@ -1104,6 +1104,15 @@
       "category": "history_althistory",
       "title": "What If Cleopatra Destroyed Rome's Fleet?",
       "uploaded_at": "2026-10-24T19:12:48.143640",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "TrsSZkC3-Ec",
+      "topic": "nearby star supernova",
+      "category": "space_science",
+      "title": "What If a Nearby Star Went Supernova Tomorrow?",
+      "uploaded_at": "2026-10-25T00:01:49.604098",
       "views_checked": false,
       "views": 0
     }
