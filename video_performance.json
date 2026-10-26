@@ -1059,8 +1059,8 @@
       "category": "history_althistory",
       "title": "What If the Minoans Built an Empire?",
       "uploaded_at": "2026-10-23T01:30:33.854500",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 27
     },
     {
       "video_id": "0XnftqMOeM8",
@@ -1068,8 +1068,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a 500‑Foot Iceberg Crashed Into New York?",
       "uploaded_at": "2026-10-23T17:52:22.850047",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "-LuT4Pj_BFQ",
@@ -1140,6 +1140,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a 10‑Mile‑High Tornado Hit Manhattan?",
       "uploaded_at": "2026-10-25T23:50:48.028504",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "D70e-AVS1pk",
+      "topic": "early Chinese gunpowder",
+      "category": "history_althistory",
+      "title": "What If Ancient China Invented Gunpowder Early?",
+      "uploaded_at": "2026-10-26T19:31:06.990585",
       "views_checked": false,
       "views": 0
     }
