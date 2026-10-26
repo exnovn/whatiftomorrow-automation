@@ -1077,7 +1077,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If A 300‑Foot Tsunami Crashes Into California?",
       "uploaded_at": "2026-10-23T20:11:42.744067",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1149,6 +1149,15 @@
       "category": "history_althistory",
       "title": "What If Ancient China Invented Gunpowder Early?",
       "uploaded_at": "2026-10-26T19:31:06.990585",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "t13NlczFI1Q",
+      "topic": "rogue planet collision",
+      "category": "space_science",
+      "title": "What If a Rogue Planet Crashed Into Earth Tonight?",
+      "uploaded_at": "2026-10-26T21:18:56.278924",
       "views_checked": false,
       "views": 0
     }
