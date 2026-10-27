@@ -1086,8 +1086,8 @@
       "category": "space_science",
       "title": "What If Jupiter Turned Into a Second Sun?",
       "uploaded_at": "2026-10-24T00:17:25.485910",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 53
     },
     {
       "video_id": "D9o1Hx7d4D8",
@@ -1158,6 +1158,15 @@
       "category": "space_science",
       "title": "What If a Rogue Planet Crashed Into Earth Tonight?",
       "uploaded_at": "2026-10-26T21:18:56.278924",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "d7OscxLTvN0",
+      "topic": "buried alien vessel",
+      "category": "disaster_mystery_survival",
+      "title": "What If an Alien Ship Woke Beneath the Sahara?",
+      "uploaded_at": "2026-10-27T02:07:00.253409",
       "views_checked": false,
       "views": 0
     }
