@@ -1095,8 +1095,8 @@
       "category": "space_science",
       "title": "What If Venus Became Earth-Like Overnight?",
       "uploaded_at": "2026-10-24T15:07:19.585244",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 13
     },
     {
       "video_id": "khE4je0jjs8",
@@ -1167,6 +1167,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Alien Ship Woke Beneath the Sahara?",
       "uploaded_at": "2026-10-27T02:07:00.253409",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "VjgEbPEvrF4",
+      "topic": "Rogue Black Hole",
+      "category": "space_science",
+      "title": "What If a Black Hole Invaded Our Solar System?",
+      "uploaded_at": "2026-10-27T18:51:16.110275",
       "views_checked": false,
       "views": 0
     }
