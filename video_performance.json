@@ -1122,8 +1122,8 @@
       "category": "space_science",
       "title": "What If Earth's Magnetic Shield Vanished?",
       "uploaded_at": "2026-10-25T15:20:00.838940",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "IcchzXiECCk",
@@ -1185,6 +1185,15 @@
       "category": "space_science",
       "title": "What If The Sun Suddenly Doubled Its Brightness?",
       "uploaded_at": "2026-10-28T00:59:47.108603",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "jNTevwJ17qw",
+      "topic": "underground ocean flood",
+      "category": "disaster_mystery_survival",
+      "title": "What If an Underground Ocean Flooded the World?",
+      "uploaded_at": "2026-10-28T17:42:00.218698",
       "views_checked": false,
       "views": 0
     }
