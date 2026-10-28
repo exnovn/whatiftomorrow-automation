@@ -1131,8 +1131,8 @@
       "category": "history_althistory",
       "title": "What If Persia Never Fell",
       "uploaded_at": "2026-10-25T19:27:33.202778",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "Jed-tmiZ44o",
@@ -1194,6 +1194,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Underground Ocean Flooded the World?",
       "uploaded_at": "2026-10-28T17:42:00.218698",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "xKJA_EJA-nc",
+      "topic": "space mirror",
+      "category": "space_science",
+      "title": "What If a Giant Space Mirror Appeared Over Earth?",
+      "uploaded_at": "2026-10-28T21:29:59.028909",
       "views_checked": false,
       "views": 0
     }
