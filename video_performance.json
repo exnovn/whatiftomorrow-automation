@@ -1149,8 +1149,8 @@
       "category": "history_althistory",
       "title": "What If Ancient China Invented Gunpowder Early?",
       "uploaded_at": "2026-10-26T19:31:06.990585",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "t13NlczFI1Q",
@@ -1158,8 +1158,8 @@
       "category": "space_science",
       "title": "What If a Rogue Planet Crashed Into Earth Tonight?",
       "uploaded_at": "2026-10-26T21:18:56.278924",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "d7OscxLTvN0",
@@ -1221,6 +1221,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Living Dinosaurs Were Hiding on Earth?",
       "uploaded_at": "2026-10-29T17:55:12.472397",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "m7A0kgRG7WQ",
+      "topic": "moon disappearance",
+      "category": "space_science",
+      "title": "What If The Moon Disappears Tonight",
+      "uploaded_at": "2026-10-29T21:36:43.194351",
       "views_checked": false,
       "views": 0
     }
