@@ -1140,8 +1140,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a 10‑Mile‑High Tornado Hit Manhattan?",
       "uploaded_at": "2026-10-25T23:50:48.028504",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "D70e-AVS1pk",
@@ -1203,6 +1203,15 @@
       "category": "space_science",
       "title": "What If a Giant Space Mirror Appeared Over Earth?",
       "uploaded_at": "2026-10-28T21:29:59.028909",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "ewv_zrFVPL4",
+      "topic": "Black Death",
+      "category": "history_althistory",
+      "title": "What If the Black Death Never Happened?",
+      "uploaded_at": "2026-10-29T01:34:57.770680",
       "views_checked": false,
       "views": 0
     }
