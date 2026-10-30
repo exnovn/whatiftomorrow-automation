@@ -1167,7 +1167,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Alien Ship Woke Beneath the Sahara?",
       "uploaded_at": "2026-10-27T02:07:00.253409",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1239,6 +1239,15 @@
       "category": "history_althistory",
       "title": "What If Vikings Built an Empire in North America?",
       "uploaded_at": "2026-10-30T01:35:24.672992",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "YcNMdRh1zpk",
+      "topic": "Sahara Rainforest",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Sahara Became a Rainforest Overnight?",
+      "uploaded_at": "2026-10-30T17:37:22.434463",
       "views_checked": false,
       "views": 0
     }
