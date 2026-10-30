@@ -1176,8 +1176,8 @@
       "category": "space_science",
       "title": "What If a Black Hole Invaded Our Solar System?",
       "uploaded_at": "2026-10-27T18:51:16.110275",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "DoP46SDhjcw",
@@ -1248,6 +1248,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Sahara Became a Rainforest Overnight?",
       "uploaded_at": "2026-10-30T17:37:22.434463",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "ogPCk5ijazY",
+      "topic": "slow rotation",
+      "category": "space_science",
+      "title": "What If Earth Had 48‑Hour Days?",
+      "uploaded_at": "2026-10-30T21:19:06.085693",
       "views_checked": false,
       "views": 0
     }
