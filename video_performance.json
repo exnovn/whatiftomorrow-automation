@@ -1185,8 +1185,8 @@
       "category": "space_science",
       "title": "What If The Sun Suddenly Doubled Its Brightness?",
       "uploaded_at": "2026-10-28T00:59:47.108603",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "jNTevwJ17qw",
@@ -1257,6 +1257,15 @@
       "category": "space_science",
       "title": "What If Earth Had 48‑Hour Days?",
       "uploaded_at": "2026-10-30T21:19:06.085693",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "pqR7W50dlrU",
+      "topic": "Maya Empire",
+      "category": "history_althistory",
+      "title": "What If the Maya Built a Modern Empire?",
+      "uploaded_at": "2026-10-31T01:26:52.556246",
       "views_checked": false,
       "views": 0
     }
