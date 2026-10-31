@@ -1194,7 +1194,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Underground Ocean Flooded the World?",
       "uploaded_at": "2026-10-28T17:42:00.218698",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1275,6 +1275,15 @@
       "category": "history_althistory",
       "title": "What If Hannibal Never Crossed the Alps?",
       "uploaded_at": "2026-10-31T16:34:59.711168",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "ipWisGI_kbc",
+      "topic": "Great Lakes Supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Great Lakes Became a Supervolcano?",
+      "uploaded_at": "2026-10-31T20:29:07.081752",
       "views_checked": false,
       "views": 0
     }
