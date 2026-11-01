@@ -1203,8 +1203,8 @@
       "category": "space_science",
       "title": "What If a Giant Space Mirror Appeared Over Earth?",
       "uploaded_at": "2026-10-28T21:29:59.028909",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 14
     },
     {
       "video_id": "ewv_zrFVPL4",
@@ -1284,6 +1284,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Great Lakes Became a Supervolcano?",
       "uploaded_at": "2026-10-31T20:29:07.081752",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "aFaAyHywlcY",
+      "topic": "Earth orbital stop",
+      "category": "space_science",
+      "title": "What If Earth Stopped Orbiting the Sun?",
+      "uploaded_at": "2026-11-01T00:44:11.386191",
       "views_checked": false,
       "views": 0
     }
