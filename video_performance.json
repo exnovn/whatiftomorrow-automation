@@ -1221,8 +1221,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Living Dinosaurs Were Hiding on Earth?",
       "uploaded_at": "2026-10-29T17:55:12.472397",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 41
     },
     {
       "video_id": "m7A0kgRG7WQ",
@@ -1302,6 +1302,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Los Angeles Fell Into a Giant Sinkhole?",
       "uploaded_at": "2026-11-01T17:27:00.101967",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "OLog6uXzu8k",
+      "topic": "continental rift",
+      "category": "disaster_mystery_survival",
+      "title": "What If the San Andreas Fault Split the West Coast?",
+      "uploaded_at": "2026-11-01T20:56:48.056770",
       "views_checked": false,
       "views": 0
     }
