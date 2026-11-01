@@ -1212,8 +1212,8 @@
       "category": "history_althistory",
       "title": "What If the Black Death Never Happened?",
       "uploaded_at": "2026-10-29T01:34:57.770680",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "iM06CnoY96Q",
@@ -1293,6 +1293,15 @@
       "category": "space_science",
       "title": "What If Earth Stopped Orbiting the Sun?",
       "uploaded_at": "2026-11-01T00:44:11.386191",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "zlR43vpPabc",
+      "topic": "sinkhole disaster",
+      "category": "disaster_mystery_survival",
+      "title": "What If Los Angeles Fell Into a Giant Sinkhole?",
+      "uploaded_at": "2026-11-01T17:27:00.101967",
       "views_checked": false,
       "views": 0
     }
