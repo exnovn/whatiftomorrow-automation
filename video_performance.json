@@ -1230,8 +1230,8 @@
       "category": "space_science",
       "title": "What If The Moon Disappears Tonight",
       "uploaded_at": "2026-10-29T21:36:43.194351",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 156
     },
     {
       "video_id": "LP8JcGElyPA",
@@ -1311,6 +1311,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the San Andreas Fault Split the West Coast?",
       "uploaded_at": "2026-11-01T20:56:48.056770",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "P4MwtT0dKl0",
+      "topic": "Spartan Empire",
+      "category": "history_althistory",
+      "title": "What If Sparta Ruled the Seas?",
+      "uploaded_at": "2026-11-02T01:18:15.620758",
       "views_checked": false,
       "views": 0
     }
