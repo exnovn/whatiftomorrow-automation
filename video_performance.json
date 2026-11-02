@@ -1257,8 +1257,8 @@
       "category": "space_science",
       "title": "What If Earth Had 48‑Hour Days?",
       "uploaded_at": "2026-10-30T21:19:06.085693",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 9
     },
     {
       "video_id": "pqR7W50dlrU",
@@ -1329,6 +1329,15 @@
       "category": "space_science",
       "title": "What If Earth Gained a Second Moon?",
       "uploaded_at": "2026-11-02T21:09:38.237390",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "f9tbSVvW01g",
+      "topic": "iron meteor",
+      "category": "disaster_mystery_survival",
+      "title": "What If an Iron Meteor Created a Floating Island?",
+      "uploaded_at": "2026-11-02T23:47:09.732960",
       "views_checked": false,
       "views": 0
     }
