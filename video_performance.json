@@ -1239,8 +1239,8 @@
       "category": "history_althistory",
       "title": "What If Vikings Built an Empire in North America?",
       "uploaded_at": "2026-10-30T01:35:24.672992",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 97
     },
     {
       "video_id": "YcNMdRh1zpk",
@@ -1248,8 +1248,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Sahara Became a Rainforest Overnight?",
       "uploaded_at": "2026-10-30T17:37:22.434463",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "ogPCk5ijazY",
@@ -1320,6 +1320,15 @@
       "category": "history_althistory",
       "title": "What If Sparta Ruled the Seas?",
       "uploaded_at": "2026-11-02T01:18:15.620758",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "3A-A9ap-FCU",
+      "topic": "Second Moon",
+      "category": "space_science",
+      "title": "What If Earth Gained a Second Moon?",
+      "uploaded_at": "2026-11-02T21:09:38.237390",
       "views_checked": false,
       "views": 0
     }
