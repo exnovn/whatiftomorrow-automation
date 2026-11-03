@@ -1266,8 +1266,8 @@
       "category": "history_althistory",
       "title": "What If the Maya Built a Modern Empire?",
       "uploaded_at": "2026-10-31T01:26:52.556246",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "OkLR1rNa09Q",
@@ -1338,6 +1338,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Iron Meteor Created a Floating Island?",
       "uploaded_at": "2026-11-02T23:47:09.732960",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "5wKE_W-TiCs",
+      "topic": "Moon becomes Sun",
+      "category": "space_science",
+      "title": "What If the Moon Became a Second Sun?",
+      "uploaded_at": "2026-11-03T03:19:43.323506",
       "views_checked": false,
       "views": 0
     }
