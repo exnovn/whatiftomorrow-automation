@@ -1275,8 +1275,8 @@
       "category": "history_althistory",
       "title": "What If Hannibal Never Crossed the Alps?",
       "uploaded_at": "2026-10-31T16:34:59.711168",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "ipWisGI_kbc",
@@ -1347,6 +1347,15 @@
       "category": "space_science",
       "title": "What If the Moon Became a Second Sun?",
       "uploaded_at": "2026-11-03T03:19:43.323506",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "vzLiJND4u2Y",
+      "topic": "Sun Collapse",
+      "category": "space_science",
+      "title": "What If the Sun Became a Neutron Star?",
+      "uploaded_at": "2026-11-03T18:52:44.973871",
       "views_checked": false,
       "views": 0
     }
