@@ -1284,8 +1284,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Great Lakes Became a Supervolcano?",
       "uploaded_at": "2026-10-31T20:29:07.081752",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "aFaAyHywlcY",
@@ -1356,6 +1356,15 @@
       "category": "space_science",
       "title": "What If the Sun Became a Neutron Star?",
       "uploaded_at": "2026-11-03T18:52:44.973871",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "JAMuIbnrZ_g",
+      "topic": "Ottoman Europe",
+      "category": "history_althistory",
+      "title": "What If the Ottomans Captured Vienna?",
+      "uploaded_at": "2026-11-03T22:23:50.194096",
       "views_checked": false,
       "views": 0
     }
