@@ -1329,8 +1329,8 @@
       "category": "space_science",
       "title": "What If Earth Gained a Second Moon?",
       "uploaded_at": "2026-11-02T21:09:38.237390",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 28
     },
     {
       "video_id": "f9tbSVvW01g",
@@ -1392,6 +1392,15 @@
       "category": "history_althistory",
       "title": "What If the Byzantines Discovered America First?",
       "uploaded_at": "2026-11-05T19:16:58.021227",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "h10lvyo3O5o",
+      "topic": "Greek gunpowder",
+      "category": "history_althistory",
+      "title": "What If the Greeks Invented Gunpowder?",
+      "uploaded_at": "2026-11-05T22:29:48.325851",
       "views_checked": false,
       "views": 0
     }
