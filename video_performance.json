@@ -1356,8 +1356,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Neutron Star?",
       "uploaded_at": "2026-11-03T18:52:44.973871",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 33
     },
     {
       "video_id": "JAMuIbnrZ_g",
@@ -1419,6 +1419,15 @@
       "category": "space_science",
       "title": "What If the Moon Turned Into a Neutron Star?",
       "uploaded_at": "2026-11-06T18:43:15.535892",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "oKAJA6tUPRw",
+      "topic": "Neutron Star Intruder",
+      "category": "space_science",
+      "title": "What If a Neutron Star Slid Into Our Solar System?",
+      "uploaded_at": "2026-11-06T21:55:23.009449",
       "views_checked": false,
       "views": 0
     }
