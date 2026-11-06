@@ -1347,7 +1347,7 @@
       "category": "space_science",
       "title": "What If the Moon Became a Second Sun?",
       "uploaded_at": "2026-11-03T03:19:43.323506",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1410,6 +1410,15 @@
       "category": "history_althistory",
       "title": "What If Carthage Destroyed Rome?",
       "uploaded_at": "2026-11-06T02:00:43.589561",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "gDfUkksm_QY",
+      "topic": "Moon neutron star",
+      "category": "space_science",
+      "title": "What If the Moon Turned Into a Neutron Star?",
+      "uploaded_at": "2026-11-06T18:43:15.535892",
       "views_checked": false,
       "views": 0
     }
