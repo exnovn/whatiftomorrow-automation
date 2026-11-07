@@ -1365,8 +1365,8 @@
       "category": "history_althistory",
       "title": "What If the Ottomans Captured Vienna?",
       "uploaded_at": "2026-11-03T22:23:50.194096",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "kwduQhxmmpA",
@@ -1428,6 +1428,15 @@
       "category": "space_science",
       "title": "What If a Neutron Star Slid Into Our Solar System?",
       "uploaded_at": "2026-11-06T21:55:23.009449",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "B-XRjb9iW7I",
+      "topic": "Egyptian gunpowder",
+      "category": "history_althistory",
+      "title": "What If Ancient Egypt Invented Gunpowder?",
+      "uploaded_at": "2026-11-07T01:38:31.821302",
       "views_checked": false,
       "views": 0
     }
