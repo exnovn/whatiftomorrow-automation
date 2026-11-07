@@ -1374,8 +1374,8 @@
       "category": "history_althistory",
       "title": "What If China Discovered America First",
       "uploaded_at": "2026-11-04T01:55:16.847474",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "NoLS2-pAypE",
@@ -1437,6 +1437,15 @@
       "category": "history_althistory",
       "title": "What If Ancient Egypt Invented Gunpowder?",
       "uploaded_at": "2026-11-07T01:38:31.821302",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "nTzdKmp_KK0",
+      "topic": "coastal megatsunami",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Megatsunami Hit California Tomorrow?",
+      "uploaded_at": "2026-11-07T17:13:43.484622",
       "views_checked": false,
       "views": 0
     }
