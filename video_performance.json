@@ -1383,7 +1383,7 @@
       "category": "history_althistory",
       "title": "What If Ancient Egypt Ran on Steam?",
       "uploaded_at": "2026-11-05T02:00:36.009775",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1392,8 +1392,8 @@
       "category": "history_althistory",
       "title": "What If the Byzantines Discovered America First?",
       "uploaded_at": "2026-11-05T19:16:58.021227",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "h10lvyo3O5o",
@@ -1464,6 +1464,15 @@
       "category": "history_althistory",
       "title": "What If Zheng He Colonized America?",
       "uploaded_at": "2026-11-08T01:06:49.863180",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "HZpOuNh5adc",
+      "topic": "glacial dam collapse",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Himalayan Ice Dam Burst?",
+      "uploaded_at": "2026-11-08T20:57:24.256432",
       "views_checked": false,
       "views": 0
     }
