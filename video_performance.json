@@ -1401,8 +1401,8 @@
       "category": "history_althistory",
       "title": "What If the Greeks Invented Gunpowder?",
       "uploaded_at": "2026-11-05T22:29:48.325851",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 11
     },
     {
       "video_id": "fDViNGS-ESs",
@@ -1473,6 +1473,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Himalayan Ice Dam Burst?",
       "uploaded_at": "2026-11-08T20:57:24.256432",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "SDF5rbNGmgU",
+      "topic": "Hittite Gunpowder",
+      "category": "history_althistory",
+      "title": "What If the Hittites Invented Gunpowder?",
+      "uploaded_at": "2026-11-09T01:27:23.909345",
       "views_checked": false,
       "views": 0
     }
