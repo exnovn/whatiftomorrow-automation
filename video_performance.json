@@ -1410,7 +1410,7 @@
       "category": "history_althistory",
       "title": "What If Carthage Destroyed Rome?",
       "uploaded_at": "2026-11-06T02:00:43.589561",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1419,8 +1419,8 @@
       "category": "space_science",
       "title": "What If the Moon Turned Into a Neutron Star?",
       "uploaded_at": "2026-11-06T18:43:15.535892",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "oKAJA6tUPRw",
@@ -1482,6 +1482,15 @@
       "category": "history_althistory",
       "title": "What If the Hittites Invented Gunpowder?",
       "uploaded_at": "2026-11-09T01:27:23.909345",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "XO9onc1YC3I",
+      "topic": "Jupiter collision",
+      "category": "space_science",
+      "title": "What If Jupiter Crashed Into Earth’s Orbit?",
+      "uploaded_at": "2026-11-09T21:47:32.127054",
       "views_checked": false,
       "views": 0
     }
