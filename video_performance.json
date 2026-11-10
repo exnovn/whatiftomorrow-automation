@@ -1428,8 +1428,8 @@
       "category": "space_science",
       "title": "What If a Neutron Star Slid Into Our Solar System?",
       "uploaded_at": "2026-11-06T21:55:23.009449",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 11
     },
     {
       "video_id": "B-XRjb9iW7I",
@@ -1491,6 +1491,15 @@
       "category": "space_science",
       "title": "What If Jupiter Crashed Into Earth’s Orbit?",
       "uploaded_at": "2026-11-09T21:47:32.127054",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "LusdS7EGAHE",
+      "topic": "neutron star crash",
+      "category": "space_science",
+      "title": "What If a Neutron Star Crashed Into Our Solar System?",
+      "uploaded_at": "2026-11-10T00:32:24.521604",
       "views_checked": false,
       "views": 0
     }
