@@ -1455,8 +1455,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Frozen Virus Comes Back to Life?",
       "uploaded_at": "2026-11-07T20:40:34.981801",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "xIDrvnzahH4",
@@ -1518,6 +1518,15 @@
       "category": "history_althistory",
       "title": "What If the Indus Valley Never Fell?",
       "uploaded_at": "2026-11-10T19:06:44.849101",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "kFf2NvBfem0",
+      "topic": "Aksumian Discovery",
+      "category": "history_althistory",
+      "title": "What If Aksum Discovered America?",
+      "uploaded_at": "2026-11-10T22:07:57.492000",
       "views_checked": false,
       "views": 0
     }
