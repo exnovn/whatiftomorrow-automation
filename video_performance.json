@@ -1446,7 +1446,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Megatsunami Hit California Tomorrow?",
       "uploaded_at": "2026-11-07T17:13:43.484622",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1509,6 +1509,15 @@
       "category": "space_science",
       "title": "What If a Micro Black Hole Pierced Earth?",
       "uploaded_at": "2026-11-10T03:58:36.510859",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "4BosZc5zIbo",
+      "topic": "Indus Survival",
+      "category": "history_althistory",
+      "title": "What If the Indus Valley Never Fell?",
+      "uploaded_at": "2026-11-10T19:06:44.849101",
       "views_checked": false,
       "views": 0
     }
