@@ -1437,8 +1437,8 @@
       "category": "history_althistory",
       "title": "What If Ancient Egypt Invented Gunpowder?",
       "uploaded_at": "2026-11-07T01:38:31.821302",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "nTzdKmp_KK0",
@@ -1500,6 +1500,15 @@
       "category": "space_science",
       "title": "What If a Neutron Star Crashed Into Our Solar System?",
       "uploaded_at": "2026-11-10T00:32:24.521604",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "aU1465kxkVM",
+      "topic": "micro black hole",
+      "category": "space_science",
+      "title": "What If a Micro Black Hole Pierced Earth?",
+      "uploaded_at": "2026-11-10T03:58:36.510859",
       "views_checked": false,
       "views": 0
     }
