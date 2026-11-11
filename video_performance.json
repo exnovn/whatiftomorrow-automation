@@ -1473,8 +1473,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Himalayan Ice Dam Burst?",
       "uploaded_at": "2026-11-08T20:57:24.256432",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 69
     },
     {
       "video_id": "SDF5rbNGmgU",
@@ -1545,6 +1545,15 @@
       "category": "history_althistory",
       "title": "What If Persia Built a Trans‑Eurasian Highway?",
       "uploaded_at": "2026-11-11T19:04:09.682978",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "WRhwL7-Riqw",
+      "topic": "Amazon wildfire",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Amazon Burns Overnight?",
+      "uploaded_at": "2026-11-11T23:16:43.890120",
       "views_checked": false,
       "views": 0
     }
