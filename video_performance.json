@@ -1464,8 +1464,8 @@
       "category": "history_althistory",
       "title": "What If Zheng He Colonized America?",
       "uploaded_at": "2026-11-08T01:06:49.863180",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 38
     },
     {
       "video_id": "HZpOuNh5adc",
@@ -1527,6 +1527,15 @@
       "category": "history_althistory",
       "title": "What If Aksum Discovered America?",
       "uploaded_at": "2026-11-10T22:07:57.492000",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "-NvXcy9zNts",
+      "topic": "Minoan dominance",
+      "category": "history_althistory",
+      "title": "What If the Minoans Conquered the World?",
+      "uploaded_at": "2026-11-11T01:43:54.747826",
       "views_checked": false,
       "views": 0
     }
