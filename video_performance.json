@@ -1482,8 +1482,8 @@
       "category": "history_althistory",
       "title": "What If the Hittites Invented Gunpowder?",
       "uploaded_at": "2026-11-09T01:27:23.909345",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 7
     },
     {
       "video_id": "XO9onc1YC3I",
@@ -1554,6 +1554,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Amazon Burns Overnight?",
       "uploaded_at": "2026-11-11T23:16:43.890120",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "YYk5OrFzkNc",
+      "topic": "Antarctic collapse",
+      "category": "disaster_mystery_survival",
+      "title": "What If Antarctica’s Ice Shelf Collapsed Overnight?",
+      "uploaded_at": "2026-11-12T02:43:05.336910",
       "views_checked": false,
       "views": 0
     }
