@@ -1509,8 +1509,8 @@
       "category": "space_science",
       "title": "What If a Micro Black Hole Pierced Earth?",
       "uploaded_at": "2026-11-10T03:58:36.510859",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 23
     },
     {
       "video_id": "4BosZc5zIbo",
@@ -1590,6 +1590,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Dinosaurs Still Walked Earth?",
       "uploaded_at": "2026-11-13T02:25:05.380137",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "QCIX3REWSRs",
+      "topic": "sun disappears",
+      "category": "space_science",
+      "title": "What If the Sun Suddenly Vanished?",
+      "uploaded_at": "2026-11-13T18:59:43.753280",
       "views_checked": false,
       "views": 0
     }
