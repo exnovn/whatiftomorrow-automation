@@ -1500,8 +1500,8 @@
       "category": "space_science",
       "title": "What If a Neutron Star Crashed Into Our Solar System?",
       "uploaded_at": "2026-11-10T00:32:24.521604",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "aU1465kxkVM",
@@ -1581,6 +1581,15 @@
       "category": "history_althistory",
       "title": "What If the Sassanid Empire Conquered Europe?",
       "uploaded_at": "2026-11-12T22:33:12.193621",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "a6VgiTaSnFQ",
+      "topic": "living dinosaurs",
+      "category": "disaster_mystery_survival",
+      "title": "What If Dinosaurs Still Walked Earth?",
+      "uploaded_at": "2026-11-13T02:25:05.380137",
       "views_checked": false,
       "views": 0
     }
