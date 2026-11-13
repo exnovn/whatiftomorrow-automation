@@ -1518,8 +1518,8 @@
       "category": "history_althistory",
       "title": "What If the Indus Valley Never Fell?",
       "uploaded_at": "2026-11-10T19:06:44.849101",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "kFf2NvBfem0",
@@ -1527,8 +1527,8 @@
       "category": "history_althistory",
       "title": "What If Aksum Discovered America?",
       "uploaded_at": "2026-11-10T22:07:57.492000",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 21
     },
     {
       "video_id": "-NvXcy9zNts",
@@ -1599,6 +1599,15 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Vanished?",
       "uploaded_at": "2026-11-13T18:59:43.753280",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "2FM7whew9O0",
+      "topic": "Song Expedition Europe",
+      "category": "history_althistory",
+      "title": "What If Song China Conquered Europe a Millennium Early?",
+      "uploaded_at": "2026-11-13T22:21:15.878481",
       "views_checked": false,
       "views": 0
     }
