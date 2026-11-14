@@ -1536,8 +1536,8 @@
       "category": "history_althistory",
       "title": "What If the Minoans Conquered the World?",
       "uploaded_at": "2026-11-11T01:43:54.747826",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 205
     },
     {
       "video_id": "FocRY3rdLYQ",
@@ -1608,6 +1608,15 @@
       "category": "history_althistory",
       "title": "What If Song China Conquered Europe a Millennium Early?",
       "uploaded_at": "2026-11-13T22:21:15.878481",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "M6cGvj8ZPxA",
+      "topic": "Viking America",
+      "category": "history_althistory",
+      "title": "What If Vikings Colonized America First?",
+      "uploaded_at": "2026-11-14T01:59:26.168953",
       "views_checked": false,
       "views": 0
     }
