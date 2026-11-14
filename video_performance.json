@@ -1545,8 +1545,8 @@
       "category": "history_althistory",
       "title": "What If Persia Built a Trans‑Eurasian Highway?",
       "uploaded_at": "2026-11-11T19:04:09.682978",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "WRhwL7-Riqw",
@@ -1626,6 +1626,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the West Coast Split Apart?",
       "uploaded_at": "2026-11-14T17:30:55.272321",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "IaFtcA8_XQI",
+      "topic": "rogue black hole",
+      "category": "space_science",
+      "title": "What If a Rogue Black Hole Invaded Our Solar System?",
+      "uploaded_at": "2026-11-14T21:04:34.520180",
       "views_checked": false,
       "views": 0
     }
