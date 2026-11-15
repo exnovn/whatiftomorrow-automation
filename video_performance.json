@@ -1563,8 +1563,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica’s Ice Shelf Collapsed Overnight?",
       "uploaded_at": "2026-11-12T02:43:05.336910",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "xeoFCqF5R-c",
@@ -1644,6 +1644,15 @@
       "category": "history_althistory",
       "title": "What If the Maya Empire Dominated the Caribbean?",
       "uploaded_at": "2026-11-15T01:31:57.360696",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "XW9MZQfgQA8",
+      "topic": "pulsar sun",
+      "category": "space_science",
+      "title": "What If the Sun Became a Pulsar?",
+      "uploaded_at": "2026-11-15T18:16:30.399969",
       "views_checked": false,
       "views": 0
     }
