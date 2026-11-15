@@ -1572,7 +1572,7 @@
       "category": "history_althistory",
       "title": "What If the Soviets Beat the US to the Moon?",
       "uploaded_at": "2026-11-12T19:22:15.729247",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1653,6 +1653,15 @@
       "category": "space_science",
       "title": "What If the Sun Became a Pulsar?",
       "uploaded_at": "2026-11-15T18:16:30.399969",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "cnC29WX_YOI",
+      "topic": "black hole invasion",
+      "category": "space_science",
+      "title": "What If a Black Hole Invaded Our Solar System?",
+      "uploaded_at": "2026-11-15T21:27:15.778151",
       "views_checked": false,
       "views": 0
     }
