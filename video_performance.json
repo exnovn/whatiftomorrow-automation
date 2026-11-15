@@ -1554,8 +1554,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Amazon Burns Overnight?",
       "uploaded_at": "2026-11-11T23:16:43.890120",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "YYk5OrFzkNc",
@@ -1635,6 +1635,15 @@
       "category": "space_science",
       "title": "What If a Rogue Black Hole Invaded Our Solar System?",
       "uploaded_at": "2026-11-14T21:04:34.520180",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "xJMqT5v-96A",
+      "topic": "Maya seafaring",
+      "category": "history_althistory",
+      "title": "What If the Maya Empire Dominated the Caribbean?",
+      "uploaded_at": "2026-11-15T01:31:57.360696",
       "views_checked": false,
       "views": 0
     }
