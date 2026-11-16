@@ -1590,8 +1590,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Dinosaurs Still Walked Earth?",
       "uploaded_at": "2026-11-13T02:25:05.380137",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 912
     },
     {
       "video_id": "QCIX3REWSRs",
@@ -1599,8 +1599,8 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Vanished?",
       "uploaded_at": "2026-11-13T18:59:43.753280",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 331
     },
     {
       "video_id": "2FM7whew9O0",
@@ -1671,6 +1671,15 @@
       "category": "history_althistory",
       "title": "What If Sumerians Invented Electricity?",
       "uploaded_at": "2026-11-16T01:36:17.890902",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "J5n3D31eyAs",
+      "topic": "sun black hole",
+      "category": "space_science",
+      "title": "What If the Sun Became a Black Hole?",
+      "uploaded_at": "2026-11-16T21:28:42.623523",
       "views_checked": false,
       "views": 0
     }
