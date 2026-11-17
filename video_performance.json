@@ -1635,8 +1635,8 @@
       "category": "space_science",
       "title": "What If a Rogue Black Hole Invaded Our Solar System?",
       "uploaded_at": "2026-11-14T21:04:34.520180",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 53
     },
     {
       "video_id": "xJMqT5v-96A",
@@ -1707,6 +1707,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica's Supervolcano Erupted?",
       "uploaded_at": "2026-11-17T20:16:52.070679",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "-KJG9R7dSYU",
+      "topic": "mantle breach",
+      "category": "disaster_mystery_survival",
+      "title": "What If an Asteroid Opened Earth’s Mantle?",
+      "uploaded_at": "2026-11-17T23:44:03.241395",
       "views_checked": false,
       "views": 0
     }
