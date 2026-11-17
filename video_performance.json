@@ -1626,7 +1626,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If the West Coast Split Apart?",
       "uploaded_at": "2026-11-14T17:30:55.272321",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1698,6 +1698,15 @@
       "category": "history_althistory",
       "title": "What If the Normans Lost at Hastings?",
       "uploaded_at": "2026-11-17T04:20:35.649296",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "dgDdqfACzZ4",
+      "topic": "Antarctic Supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If Antarctica's Supervolcano Erupted?",
+      "uploaded_at": "2026-11-17T20:16:52.070679",
       "views_checked": false,
       "views": 0
     }
