@@ -1608,8 +1608,8 @@
       "category": "history_althistory",
       "title": "What If Song China Conquered Europe a Millennium Early?",
       "uploaded_at": "2026-11-13T22:21:15.878481",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "M6cGvj8ZPxA",
@@ -1680,6 +1680,15 @@
       "category": "space_science",
       "title": "What If the Sun Became a Black Hole?",
       "uploaded_at": "2026-11-16T21:28:42.623523",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "YZJAWctZlZA",
+      "topic": "black hole swap",
+      "category": "space_science",
+      "title": "What If a Black Hole Replaced Our Sun?",
+      "uploaded_at": "2026-11-17T00:37:57.402770",
       "views_checked": false,
       "views": 0
     }
