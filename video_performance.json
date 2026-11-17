@@ -1617,8 +1617,8 @@
       "category": "history_althistory",
       "title": "What If Vikings Colonized America First?",
       "uploaded_at": "2026-11-14T01:59:26.168953",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 70
     },
     {
       "video_id": "AtDgUxZ-wAo",
@@ -1689,6 +1689,15 @@
       "category": "space_science",
       "title": "What If a Black Hole Replaced Our Sun?",
       "uploaded_at": "2026-11-17T00:37:57.402770",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Tn54set90vM",
+      "topic": "Norman Defeat",
+      "category": "history_althistory",
+      "title": "What If the Normans Lost at Hastings?",
+      "uploaded_at": "2026-11-17T04:20:35.649296",
       "views_checked": false,
       "views": 0
     }
