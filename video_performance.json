@@ -1653,8 +1653,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Pulsar?",
       "uploaded_at": "2026-11-15T18:16:30.399969",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 40
     },
     {
       "video_id": "cnC29WX_YOI",
@@ -1725,6 +1725,15 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Brightness?",
       "uploaded_at": "2026-11-18T03:21:10.442948",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "1cQwQTjjCv0",
+      "topic": "Ming global trade",
+      "category": "history_althistory",
+      "title": "What If the Ming Dynasty Never Closed Its Seas?",
+      "uploaded_at": "2026-11-18T19:47:57.966922",
       "views_checked": false,
       "views": 0
     }
