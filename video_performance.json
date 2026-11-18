@@ -1662,8 +1662,8 @@
       "category": "space_science",
       "title": "What If a Black Hole Invaded Our Solar System?",
       "uploaded_at": "2026-11-15T21:27:15.778151",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 40
     },
     {
       "video_id": "GWhTWkCSLmA",
@@ -1734,6 +1734,15 @@
       "category": "history_althistory",
       "title": "What If the Ming Dynasty Never Closed Its Seas?",
       "uploaded_at": "2026-11-18T19:47:57.966922",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "OXze8L2XmTU",
+      "topic": "core freeze",
+      "category": "disaster_mystery_survival",
+      "title": "What If Earth's Core Suddenly Turned to Ice?",
+      "uploaded_at": "2026-11-18T23:15:53.207181",
       "views_checked": false,
       "views": 0
     }
