@@ -1680,8 +1680,8 @@
       "category": "space_science",
       "title": "What If the Sun Became a Black Hole?",
       "uploaded_at": "2026-11-16T21:28:42.623523",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 17
     },
     {
       "video_id": "YZJAWctZlZA",
@@ -1761,6 +1761,15 @@
       "category": "history_althistory",
       "title": "What If Attila Conquered Rome?",
       "uploaded_at": "2026-11-19T19:47:46.229088",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "OUY46bNX7cI",
+      "topic": "sinkhole NYC",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Giant Sinkhole Swallowed NYC?",
+      "uploaded_at": "2026-11-19T23:23:40.605352",
       "views_checked": false,
       "views": 0
     }
