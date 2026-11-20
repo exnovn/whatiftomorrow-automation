@@ -1689,8 +1689,8 @@
       "category": "space_science",
       "title": "What If a Black Hole Replaced Our Sun?",
       "uploaded_at": "2026-11-17T00:37:57.402770",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 24
     },
     {
       "video_id": "Tn54set90vM",
@@ -1770,6 +1770,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Giant Sinkhole Swallowed NYC?",
       "uploaded_at": "2026-11-19T23:23:40.605352",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "0GTOullkeok",
+      "topic": "Antarctic comet impact",
+      "category": "disaster_mystery_survival",
+      "title": "What If a Comet Crashed Into Antarctica?",
+      "uploaded_at": "2026-11-20T02:55:31.052862",
       "views_checked": false,
       "views": 0
     }
