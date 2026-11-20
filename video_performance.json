@@ -1707,8 +1707,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Antarctica's Supervolcano Erupted?",
       "uploaded_at": "2026-11-17T20:16:52.070679",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "-KJG9R7dSYU",
@@ -1788,6 +1788,15 @@
       "category": "history_althistory",
       "title": "What If the Ottomans Invented Steam Power?",
       "uploaded_at": "2026-11-20T19:28:45.426038",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "8PZcUuK_QpE",
+      "topic": "Atlantic supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If the Atlantic Supervolcano Erupted?",
+      "uploaded_at": "2026-11-20T23:40:30.315329",
       "views_checked": false,
       "views": 0
     }
