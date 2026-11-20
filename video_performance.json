@@ -1698,8 +1698,8 @@
       "category": "history_althistory",
       "title": "What If the Normans Lost at Hastings?",
       "uploaded_at": "2026-11-17T04:20:35.649296",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "dgDdqfACzZ4",
@@ -1779,6 +1779,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Comet Crashed Into Antarctica?",
       "uploaded_at": "2026-11-20T02:55:31.052862",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "H00fPYrTQJs",
+      "topic": "Ottoman Steam Age",
+      "category": "history_althistory",
+      "title": "What If the Ottomans Invented Steam Power?",
+      "uploaded_at": "2026-11-20T19:28:45.426038",
       "views_checked": false,
       "views": 0
     }
