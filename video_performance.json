@@ -1725,8 +1725,8 @@
       "category": "space_science",
       "title": "What If the Sun Suddenly Doubled Its Brightness?",
       "uploaded_at": "2026-11-18T03:21:10.442948",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "1cQwQTjjCv0",
@@ -1806,6 +1806,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Siberia’s Supervolcano Erupted Today?",
       "uploaded_at": "2026-11-21T03:00:03.418262",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "eT0eH5lemew",
+      "topic": "Moon collision",
+      "category": "space_science",
+      "title": "What If the Moon Fell to Earth?",
+      "uploaded_at": "2026-11-21T18:30:21.461394",
       "views_checked": false,
       "views": 0
     }
