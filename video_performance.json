@@ -1716,8 +1716,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If an Asteroid Opened Earth’s Mantle?",
       "uploaded_at": "2026-11-17T23:44:03.241395",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "6P3LEhkDCss",
@@ -1797,6 +1797,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Atlantic Supervolcano Erupted?",
       "uploaded_at": "2026-11-20T23:40:30.315329",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "mE9_mxkYpY8",
+      "topic": "Siberian Supervolcano",
+      "category": "disaster_mystery_survival",
+      "title": "What If Siberia’s Supervolcano Erupted Today?",
+      "uploaded_at": "2026-11-21T03:00:03.418262",
       "views_checked": false,
       "views": 0
     }
