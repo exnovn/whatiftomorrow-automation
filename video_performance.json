@@ -1743,7 +1743,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If Earth's Core Suddenly Turned to Ice?",
       "uploaded_at": "2026-11-18T23:15:53.207181",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1824,6 +1824,15 @@
       "category": "space_science",
       "title": "What If the Moon Drifts Away?",
       "uploaded_at": "2026-11-21T21:59:34.948852",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "e8sGuKK9OD4",
+      "topic": "Byzantine Survival",
+      "category": "history_althistory",
+      "title": "What If Constantinople Never Fell",
+      "uploaded_at": "2026-11-22T01:55:34.289955",
       "views_checked": false,
       "views": 0
     }
