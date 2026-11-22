@@ -1761,8 +1761,8 @@
       "category": "history_althistory",
       "title": "What If Attila Conquered Rome?",
       "uploaded_at": "2026-11-19T19:47:46.229088",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 4
     },
     {
       "video_id": "OUY46bNX7cI",
@@ -1842,6 +1842,15 @@
       "category": "space_science",
       "title": "What If a Mars‑Sized Asteroid Hit the Sun?",
       "uploaded_at": "2026-11-22T18:52:31.158201",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "9WgND7jOhtQ",
+      "topic": "Carthaginian Triumph",
+      "category": "history_althistory",
+      "title": "What If Hannibal Conquered Rome?",
+      "uploaded_at": "2026-11-22T22:17:00.824820",
       "views_checked": false,
       "views": 0
     }
