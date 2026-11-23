@@ -1770,8 +1770,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Giant Sinkhole Swallowed NYC?",
       "uploaded_at": "2026-11-19T23:23:40.605352",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 10
     },
     {
       "video_id": "0GTOullkeok",
@@ -1851,6 +1851,15 @@
       "category": "history_althistory",
       "title": "What If Hannibal Conquered Rome?",
       "uploaded_at": "2026-11-22T22:17:00.824820",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "mu0P16999f8",
+      "topic": "city tornado",
+      "category": "disaster_mystery_survival",
+      "title": "What If a City‑Sized Tornado Devastated London?",
+      "uploaded_at": "2026-11-23T02:15:54.170194",
       "views_checked": false,
       "views": 0
     }
