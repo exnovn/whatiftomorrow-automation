@@ -1815,8 +1815,8 @@
       "category": "space_science",
       "title": "What If the Moon Fell to Earth?",
       "uploaded_at": "2026-11-21T18:30:21.461394",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 17
     },
     {
       "video_id": "5vq71f_Tvws",
@@ -1887,6 +1887,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If Earth's Magnetic Poles Flipped Overnight?",
       "uploaded_at": "2026-11-24T05:45:54.776386",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "x3GdPZ_l0OI",
+      "topic": "proxima supernova",
+      "category": "space_science",
+      "title": "What If Proxima Centauri Went Supernova?",
+      "uploaded_at": "2026-11-24T21:46:42.054385",
       "views_checked": false,
       "views": 0
     }
