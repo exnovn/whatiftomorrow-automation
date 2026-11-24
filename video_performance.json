@@ -1779,7 +1779,7 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Comet Crashed Into Antarctica?",
       "uploaded_at": "2026-11-20T02:55:31.052862",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1788,8 +1788,8 @@
       "category": "history_althistory",
       "title": "What If the Ottomans Invented Steam Power?",
       "uploaded_at": "2026-11-20T19:28:45.426038",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 5
     },
     {
       "video_id": "8PZcUuK_QpE",
@@ -1797,8 +1797,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If the Atlantic Supervolcano Erupted?",
       "uploaded_at": "2026-11-20T23:40:30.315329",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 1
     },
     {
       "video_id": "mE9_mxkYpY8",
@@ -1860,6 +1860,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a City‑Sized Tornado Devastated London?",
       "uploaded_at": "2026-11-23T02:15:54.170194",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "KjnYw7KnMMY",
+      "topic": "solar wind surge",
+      "category": "space_science",
+      "title": "What If the Sun’s Solar Wind Went Supercharged?",
+      "uploaded_at": "2026-11-24T00:23:58.724163",
       "views_checked": false,
       "views": 0
     }
