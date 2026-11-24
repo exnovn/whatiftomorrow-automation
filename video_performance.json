@@ -1806,8 +1806,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Siberia’s Supervolcano Erupted Today?",
       "uploaded_at": "2026-11-21T03:00:03.418262",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 3
     },
     {
       "video_id": "eT0eH5lemew",
@@ -1869,6 +1869,15 @@
       "category": "space_science",
       "title": "What If the Sun’s Solar Wind Went Supercharged?",
       "uploaded_at": "2026-11-24T00:23:58.724163",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "llv7FQDdC3k",
+      "topic": "Akhenaten monotheism",
+      "category": "history_althistory",
+      "title": "What If Akhenaten’s Monotheism Conquered the Ancient World",
+      "uploaded_at": "2026-11-24T04:20:36.871075",
       "views_checked": false,
       "views": 0
     }
