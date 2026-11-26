@@ -1851,7 +1851,7 @@
       "category": "history_althistory",
       "title": "What If Hannibal Conquered Rome?",
       "uploaded_at": "2026-11-22T22:17:00.824820",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1923,6 +1923,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Volcanic Eruption Darkened Half the World Overnight?",
       "uploaded_at": "2026-11-25T20:53:29.439032",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "y-y8O7S8xEI",
+      "topic": "Solar Superflare",
+      "category": "space_science",
+      "title": "What If the Sun Unleashed a Super‑Flare?",
+      "uploaded_at": "2026-11-26T00:50:04.973193",
       "views_checked": false,
       "views": 0
     }
