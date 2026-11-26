@@ -1860,8 +1860,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If a City‑Sized Tornado Devastated London?",
       "uploaded_at": "2026-11-23T02:15:54.170194",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 13
     },
     {
       "video_id": "KjnYw7KnMMY",
@@ -1932,6 +1932,15 @@
       "category": "space_science",
       "title": "What If the Sun Unleashed a Super‑Flare?",
       "uploaded_at": "2026-11-26T00:50:04.973193",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "Wrv4RB_oGwE",
+      "topic": "Sun becomes neutron star",
+      "category": "space_science",
+      "title": "What If the Sun Turned Into a Neutron Star?",
+      "uploaded_at": "2026-11-26T03:58:23.266788",
       "views_checked": false,
       "views": 0
     }
