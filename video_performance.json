@@ -1878,8 +1878,8 @@
       "category": "history_althistory",
       "title": "What If Akhenaten’s Monotheism Conquered the Ancient World",
       "uploaded_at": "2026-11-24T04:20:36.871075",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 6
     },
     {
       "video_id": "MZNNCYfbrds",
@@ -1887,8 +1887,8 @@
       "category": "disaster_mystery_survival",
       "title": "What If Earth's Magnetic Poles Flipped Overnight?",
       "uploaded_at": "2026-11-24T05:45:54.776386",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 14
     },
     {
       "video_id": "x3GdPZ_l0OI",
@@ -1968,6 +1968,15 @@
       "category": "space_science",
       "title": "What If a Dyson Swarm Suddenly Appeared Around the Sun?",
       "uploaded_at": "2026-11-27T03:57:01.038632",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "6tS5WyMECG8",
+      "topic": "living dinosaur",
+      "category": "disaster_mystery_survival",
+      "title": "What If a T‑rex Terrorized Nevada?",
+      "uploaded_at": "2026-11-27T20:30:19.791459",
       "views_checked": false,
       "views": 0
     }
