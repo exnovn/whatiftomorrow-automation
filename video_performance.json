@@ -1869,8 +1869,8 @@
       "category": "space_science",
       "title": "What If the Sun’s Solar Wind Went Supercharged?",
       "uploaded_at": "2026-11-24T00:23:58.724163",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 2
     },
     {
       "video_id": "llv7FQDdC3k",
@@ -1950,6 +1950,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a Super‑Tornado Ravaged the Heartland?",
       "uploaded_at": "2026-11-26T20:44:42.429137",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "v8S61A32l3k",
+      "topic": "Sun Red Giant",
+      "category": "space_science",
+      "title": "What If the Sun Became a Red Giant Tomorrow?",
+      "uploaded_at": "2026-11-27T00:56:04.299307",
       "views_checked": false,
       "views": 0
     }
