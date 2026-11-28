@@ -1896,8 +1896,8 @@
       "category": "space_science",
       "title": "What If Proxima Centauri Went Supernova?",
       "uploaded_at": "2026-11-24T21:46:42.054385",
-      "views_checked": false,
-      "views": 0
+      "views_checked": true,
+      "views": 378
     },
     {
       "video_id": "GfY0tsFRsYY",
@@ -1977,6 +1977,15 @@
       "category": "disaster_mystery_survival",
       "title": "What If a T‑rex Terrorized Nevada?",
       "uploaded_at": "2026-11-27T20:30:19.791459",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "C1gY-QU6vqE",
+      "topic": "sun goes dark",
+      "category": "space_science",
+      "title": "What If the Sun Went Dark for One Day?",
+      "uploaded_at": "2026-11-28T00:20:17.884269",
       "views_checked": false,
       "views": 0
     }
