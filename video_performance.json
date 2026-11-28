@@ -1905,7 +1905,7 @@
       "category": "history_althistory",
       "title": "What If Steam Powered China Changed the World?",
       "uploaded_at": "2026-11-25T01:15:03.276941",
-      "views_checked": false,
+      "views_checked": true,
       "views": 0
     },
     {
@@ -1986,6 +1986,15 @@
       "category": "space_science",
       "title": "What If the Sun Went Dark for One Day?",
       "uploaded_at": "2026-11-28T00:20:17.884269",
+      "views_checked": false,
+      "views": 0
+    },
+    {
+      "video_id": "hkVvTIDMdj8",
+      "topic": "rogue planet eclipse",
+      "category": "space_science",
+      "title": "What If a Rogue Planet Blocked the Sun?",
+      "uploaded_at": "2026-11-28T03:44:08.076458",
       "views_checked": false,
       "views": 0
     }
